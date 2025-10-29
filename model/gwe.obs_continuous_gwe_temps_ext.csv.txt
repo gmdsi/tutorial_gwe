@@ -1,0 +1,4 @@
+  t986  temperature  1 986
+  t1222  temperature  1 1222
+  t1827  temperature  1 1827
+  t3434  temperature  1 3434

@@ -1,0 +1,4 @@
+  1  temperature      11.00000000
+  2  temperature      11.00000000
+  3  temperature      11.00000000
+  4  temperature      11.00000000

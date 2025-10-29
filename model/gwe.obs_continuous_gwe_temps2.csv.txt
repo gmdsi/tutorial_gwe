@@ -1,0 +1,9 @@
+  t1038  temperature  1 1038
+  t2571  temperature  1 2571
+  t4587  temperature  1 4587
+  t6376  temperature  1 6376
+  t7640  temperature  1 7640
+  t9105  temperature  1 9105
+  t9625  temperature  1 9625
+  t9989  temperature  1 9989
+  t10169  temperature  1 10169

@@ -1,0 +1,4 @@
+  chd  aux  temperature
+  riv  aux  temperature
+  rch  aux  temperature
+  well_extract  aux  temperature
