@@ -214,9 +214,14 @@ dependencies:
   - zlib-ng=2.2.5=hf787086_0
   - zstandard=0.25.0=py311h5bb9006_0
   - zstd=1.5.7=h6491c7d_2
+  - tensorflow
+  #- tensorflow-macos
+  #- tensorflow-metal
+  - scikit-learn
   - pip:
     - -e ./dependencies/flopy
     - -e ./dependencies/pyemu
-    - pypestutils==0.3.0
+    - pypestutils
+    
 
 
