@@ -158,6 +158,7 @@ Logical Variables
 
  PROCESSING RIV BASE OPTIONS
     FLOWS WILL BE SAVED TO BUDGET FILE SPECIFIED IN OUTPUT CONTROL
+    RIV BOUNDARIES HAVE NAMES IN LAST COLUMN.
  END OF RIV BASE OPTIONS
 
  OPENED gwf.riv.obs
@@ -298,25 +299,25 @@ start timestep kper="1" kstp="1" mode="normal"
            ---                                      ---
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =       8.0671E-03                   RIV =       8.0671E-03     RIV                              
+                 RIV =       8.8972E-03                   RIV =       8.8972E-03     RIV                              
                 RCHA =       3.9565E-03                  RCHA =       3.9565E-03     RCH                              
-                 CHD =       2.0795E-02                   CHD =       2.0795E-02     CHD                              
+                 CHD =       1.4976E-02                   CHD =       1.4976E-02     CHD                              
 
-            TOTAL IN =       3.2818E-02              TOTAL IN =       3.2818E-02
+            TOTAL IN =       2.7829E-02              TOTAL IN =       2.7829E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =       2.1022E-02                   RIV =       2.1022E-02     RIV                              
+                 RIV =       1.2701E-02                   RIV =       1.2701E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =       1.1795E-02                   CHD =       1.1795E-02     CHD                              
+                 CHD =       1.5123E-02                   CHD =       1.5123E-02     CHD                              
 
-           TOTAL OUT =       3.2817E-02             TOTAL OUT =       3.2817E-02
+           TOTAL OUT =       2.7823E-02             TOTAL OUT =       2.7823E-02
 
-            IN - OUT =       1.3599E-06              IN - OUT =       1.3599E-06
+            IN - OUT =       6.0808E-06              IN - OUT =       6.0808E-06
 
- PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =           0.00
+ PERCENT DISCREPANCY =           0.02     PERCENT DISCREPANCY =           0.02
 
 
 
@@ -440,25 +441,25 @@ start timestep kper="2" kstp="14" mode="normal"
            ---                                      ---
                  WEL =      736344.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =      158420.4390                   RIV =       8.6057E-03     RIV                              
+                 RIV =      233789.8617                   RIV =       1.2702E-02     RIV                              
                 RCHA =       72834.5349                  RCHA =       3.9565E-03     RCH                              
-                 CHD =      404178.2716                   CHD =       2.1956E-02     CHD                              
+                 CHD =      308268.0588                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =     1371777.2456              TOTAL IN =       7.4518E-02
+            TOTAL IN =     1351236.4554              TOTAL IN =       7.3406E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =      736344.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =      413427.2982                   RIV =       2.2458E-02     RIV                              
+                 RIV =      327721.6964                   RIV =       1.7801E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =      222038.6882                   CHD =       1.2062E-02     CHD                              
+                 CHD =      287442.1111                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =     1371809.9864             TOTAL OUT =       7.4520E-02
+           TOTAL OUT =     1351507.8075             TOTAL OUT =       7.3415E-02
 
-            IN - OUT =         -32.7409              IN - OUT =      -1.9638E-06
+            IN - OUT =        -271.3521              IN - OUT =      -9.3031E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.02     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -546,25 +547,25 @@ start timestep kper="3" kstp="10" mode="normal"
            ---                                      ---
                  WEL =     1262304.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =      271577.0083                   RIV =       8.6057E-03     RIV                              
+                 RIV =      400814.8733                   RIV =       1.2702E-02     RIV                              
                 RCHA =      124859.1999                  RCHA =       3.9565E-03     RCH                              
-                 CHD =      692876.5484                   CHD =       2.1956E-02     CHD                              
+                 CHD =      528468.1335                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =     2351616.7565              TOTAL IN =       7.4518E-02
+            TOTAL IN =     2316446.2067              TOTAL IN =       7.3406E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =     1262304.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =      708734.8926                   RIV =       2.2459E-02     RIV                              
+                 RIV =      561780.5710                   RIV =       1.7800E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =      380637.7944                   CHD =       1.2062E-02     CHD                              
+                 CHD =      492754.5574                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =     2351676.6870             TOTAL OUT =       7.4520E-02
+           TOTAL OUT =     2316839.1284             TOTAL OUT =       7.3415E-02
 
-            IN - OUT =         -59.9305              IN - OUT =      -2.1368E-06
+            IN - OUT =        -392.9218              IN - OUT =      -9.2020E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.02     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -678,25 +679,25 @@ start timestep kper="4" kstp="14" mode="normal"
            ---                                      ---
                  WEL =     1998648.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =      429995.5338                   RIV =       8.6057E-03     RIV                              
+                 RIV =      634650.2490                   RIV =       1.2703E-02     RIV                              
                 RCHA =      197693.7308                  RCHA =       3.9565E-03     RCH                              
-                 CHD =     1097053.8106                   CHD =       2.1956E-02     CHD                              
+                 CHD =      836748.8004                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =     3723391.0752              TOTAL IN =       7.4518E-02
+            TOTAL IN =     3667740.7802              TOTAL IN =       7.3406E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =     1998648.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =     1122167.1667                   RIV =       2.2459E-02     RIV                              
+                 RIV =      889462.0216                   RIV =       1.7800E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =      602676.5716                   CHD =       1.2062E-02     CHD                              
+                 CHD =      780191.5673                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =     3723491.7384             TOTAL OUT =       7.4520E-02
+           TOTAL OUT =     3668301.5889             TOTAL OUT =       7.3415E-02
 
-            IN - OUT =        -100.6632              IN - OUT =      -2.2610E-06
+            IN - OUT =        -560.8087              IN - OUT =      -9.0471E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.02     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -782,25 +783,25 @@ start timestep kper="5" kstp="10" mode="normal"
            ---                                      ---
                  WEL =     2524608.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =      543151.3592                   RIV =       8.6057E-03     RIV                              
+                 RIV =      801676.1220                   RIV =       1.2703E-02     RIV                              
                 RCHA =      249718.3957                  RCHA =       3.9565E-03     RCH                              
-                 CHD =     1385751.7325                   CHD =       2.1956E-02     CHD                              
+                 CHD =     1056949.6204                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =     4703229.4875              TOTAL IN =       7.4518E-02
+            TOTAL IN =     4632952.1382              TOTAL IN =       7.3406E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =     2524608.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =     1417476.4831                   RIV =       2.2459E-02     RIV                              
+                 RIV =     1123519.4516                   RIV =       1.7800E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =      761275.7004                   CHD =       1.2062E-02     CHD                              
+                 CHD =      985503.5184                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =     4703360.1835             TOTAL OUT =       7.4520E-02
+           TOTAL OUT =     4633630.9699             TOTAL OUT =       7.3415E-02
 
-            IN - OUT =        -130.6960              IN - OUT =      -2.2974E-06
+            IN - OUT =        -678.8317              IN - OUT =      -8.9183E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -910,25 +911,25 @@ start timestep kper="6" kstp="14" mode="normal"
            ---                                      ---
                  WEL =     3260952.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =      701569.3610                   RIV =       8.6057E-03     RIV                              
+                 RIV =     1035513.5063                   RIV =       1.2703E-02     RIV                              
                 RCHA =      322552.9267                  RCHA =       3.9565E-03     RCH                              
-                 CHD =     1789928.7502                   CHD =       2.1956E-02     CHD                              
+                 CHD =     1365231.2160                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =     6075003.0379              TOTAL IN =       7.4518E-02
+            TOTAL IN =     5984249.6490              TOTAL IN =       7.3406E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =     3260952.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =     1830909.6824                   RIV =       2.2459E-02     RIV                              
+                 RIV =     1451198.6396                   RIV =       1.7800E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =      983314.4684                   CHD =       1.2062E-02     CHD                              
+                 CHD =     1272940.0299                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =     6075176.1507             TOTAL OUT =       7.4520E-02
+           TOTAL OUT =     5985090.6695             TOTAL OUT =       7.3415E-02
 
-            IN - OUT =        -173.1128              IN - OUT =      -2.3035E-06
+            IN - OUT =        -841.0205              IN - OUT =      -8.7172E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -1014,25 +1015,25 @@ start timestep kper="7" kstp="10" mode="normal"
            ---                                      ---
                  WEL =     3786912.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =      814725.0571                   RIV =       8.6057E-03     RIV                              
+                 RIV =     1202541.1557                   RIV =       1.2703E-02     RIV                              
                 RCHA =      374577.5916                  RCHA =       3.9565E-03     RCH                              
-                 CHD =     2078626.6058                   CHD =       2.1956E-02     CHD                              
+                 CHD =     1585432.6671                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =     7054841.2546              TOTAL IN =       7.4518E-02
+            TOTAL IN =     6949463.4145              TOTAL IN =       7.3406E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =     3786912.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =     2126218.9731                   RIV =       2.2459E-02     RIV                              
+                 RIV =     1685254.2448                   RIV =       1.7800E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     1141913.5744                   CHD =       1.2062E-02     CHD                              
+                 CHD =     1478251.6796                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =     7055044.5476             TOTAL OUT =       7.4520E-02
+           TOTAL OUT =     6950417.9244             TOTAL OUT =       7.3414E-02
 
-            IN - OUT =        -203.2930              IN - OUT =      -2.2867E-06
+            IN - OUT =        -954.5099              IN - OUT =      -8.5629E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -1142,25 +1143,25 @@ start timestep kper="8" kstp="14" mode="normal"
            ---                                      ---
                  WEL =     4523256.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =      973143.0971                   RIV =       8.6057E-03     RIV                              
+                 RIV =     1436381.2938                   RIV =       1.2703E-02     RIV                              
                 RCHA =      447412.1226                  RCHA =       3.9565E-03     RCH                              
-                 CHD =     2482803.6213                   CHD =       2.1956E-02     CHD                              
+                 CHD =     1893715.1302                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =     8426614.8410              TOTAL IN =       7.4518E-02
+            TOTAL IN =     8300764.5465              TOTAL IN =       7.3406E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =     4523256.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =     2539651.5391                   RIV =       2.2459E-02     RIV                              
+                 RIV =     2012930.6551                   RIV =       1.7800E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     1363952.2992                   CHD =       1.2062E-02     CHD                              
+                 CHD =     1765687.7928                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =     8426859.8383             TOTAL OUT =       7.4520E-02
+           TOTAL OUT =     8301874.4479             TOTAL OUT =       7.3414E-02
 
-            IN - OUT =        -244.9973              IN - OUT =      -2.2448E-06
+            IN - OUT =       -1109.9013              IN - OUT =      -8.3382E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -1246,25 +1247,25 @@ start timestep kper="9" kstp="10" mode="normal"
            ---                                      ---
                  WEL =     5049216.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     1086298.9257                   RIV =       8.6057E-03     RIV                              
+                 RIV =     1603411.0195                   RIV =       1.2703E-02     RIV                              
                 RCHA =      499436.7875                  RCHA =       3.9565E-03     RCH                              
-                 CHD =     2771501.5171                   CHD =       2.1956E-02     CHD                              
+                 CHD =     2113917.1962                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =     9406453.2303              TOTAL IN =       7.4518E-02
+            TOTAL IN =     9265981.0032              TOTAL IN =       7.3406E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =     5049216.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =     2834960.1011                   RIV =       2.2459E-02     RIV                              
+                 RIV =     2246984.1711                   RIV =       1.7800E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     1522551.3702                   CHD =       1.2062E-02     CHD                              
+                 CHD =     1970999.1626                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =     9406727.4713             TOTAL OUT =       7.4520E-02
+           TOTAL OUT =     9267199.3337             TOTAL OUT =       7.3414E-02
 
-            IN - OUT =        -274.2410              IN - OUT =      -2.2066E-06
+            IN - OUT =       -1218.3305              IN - OUT =      -8.1743E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -1374,25 +1375,25 @@ start timestep kper="10" kstp="14" mode="normal"
            ---                                      ---
                  WEL =     5785560.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     1244717.2452                   RIV =       8.6057E-03     RIV                              
+                 RIV =     1837254.1367                   RIV =       1.2703E-02     RIV                              
                 RCHA =      572271.3185                  RCHA =       3.9565E-03     RCH                              
-                 CHD =     3175678.6252                   CHD =       2.1956E-02     CHD                              
+                 CHD =     2422200.5155                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    10778227.1888              TOTAL IN =       7.4518E-02
+            TOTAL IN =    10617285.9707              TOTAL IN =       7.3406E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =     5785560.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =     3248391.4137                   RIV =       2.2459E-02     RIV                              
+                 RIV =     2574657.5778                   RIV =       1.7800E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     1744590.0436                   CHD =       1.2062E-02     CHD                              
+                 CHD =     2258434.8849                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    10778541.4573             TOTAL OUT =       7.4520E-02
+           TOTAL OUT =    10618652.4627             TOTAL OUT =       7.3414E-02
 
-            IN - OUT =        -314.2685              IN - OUT =      -2.1461E-06
+            IN - OUT =       -1366.4920              IN - OUT =      -7.9432E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -1478,25 +1479,25 @@ start timestep kper="11" kstp="10" mode="normal"
            ---                                      ---
                  WEL =     6311520.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     1357873.3176                   RIV =       8.6057E-03     RIV                              
+                 RIV =     2004286.0087                   RIV =       1.2703E-02     RIV                              
                 RCHA =      624295.9834                  RCHA =       3.9565E-03     RCH                              
-                 CHD =     3464376.6043                   CHD =       2.1956E-02     CHD                              
+                 CHD =     2642403.1891                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    11758065.9053              TOTAL IN =       7.4518E-02
+            TOTAL IN =    11582505.1813              TOTAL IN =       7.3406E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =     6311520.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =     3543698.9784                   RIV =       2.2459E-02     RIV                              
+                 RIV =     2808708.9251                   RIV =       1.7800E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     1903189.0775                   CHD =       1.2062E-02     CHD                              
+                 CHD =     2463745.9760                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    11758408.0559             TOTAL OUT =       7.4520E-02
+           TOTAL OUT =    11583974.9011             TOTAL OUT =       7.3414E-02
 
-            IN - OUT =        -342.1505              IN - OUT =      -2.0998E-06
+            IN - OUT =       -1469.7198              IN - OUT =      -7.7787E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -1606,25 +1607,25 @@ start timestep kper="12" kstp="14" mode="normal"
            ---                                      ---
                  WEL =     7047864.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     1516292.0163                   RIV =       8.6057E-03     RIV                              
+                 RIV =     2238132.1230                   RIV =       1.2703E-02     RIV                              
                 RCHA =      697130.5144                  RCHA =       3.9565E-03     RCH                              
-                 CHD =     3868553.8441                   CHD =       2.1956E-02     CHD                              
+                 CHD =     2950687.3510                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    13129840.3747              TOTAL IN =       7.4518E-02
+            TOTAL IN =    12933813.9884              TOTAL IN =       7.3406E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =     7047864.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =     3957128.8186                   RIV =       2.2458E-02     RIV                              
+                 RIV =     3136379.3002                   RIV =       1.7800E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     2125227.6996                   CHD =       1.2062E-02     CHD                              
+                 CHD =     2751181.3101                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    13130220.5181             TOTAL OUT =       7.4520E-02
+           TOTAL OUT =    12935424.6103             TOTAL OUT =       7.3414E-02
 
-            IN - OUT =        -380.1434              IN - OUT =      -2.0330E-06
+            IN - OUT =       -1610.6220              IN - OUT =      -7.5505E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -1710,25 +1711,25 @@ start timestep kper="13" kstp="10" mode="normal"
            ---                                      ---
                  WEL =     7573824.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     1629448.3764                   RIV =       8.6057E-03     RIV                              
+                 RIV =     2405166.1162                   RIV =       1.2703E-02     RIV                              
                 RCHA =      749155.1793                  RCHA =       3.9565E-03     RCH                              
-                 CHD =     4157251.9242                   CHD =       2.1956E-02     CHD                              
+                 CHD =     3170890.6189                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    14109679.4799              TOTAL IN =       7.4518E-02
+            TOTAL IN =    13899035.9144              TOTAL IN =       7.3407E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =     7573824.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =     4252435.3046                   RIV =       2.2458E-02     RIV                              
+                 RIV =     3370428.5007                   RIV =       1.7800E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     2283826.6977                   CHD =       1.2062E-02     CHD                              
+                 CHD =     2956492.1265                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    14110086.0023             TOTAL OUT =       7.4520E-02
+           TOTAL OUT =    13900744.6272             TOTAL OUT =       7.3414E-02
 
-            IN - OUT =        -406.5224              IN - OUT =      -1.9847E-06
+            IN - OUT =       -1708.7128              IN - OUT =      -7.3898E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -1838,25 +1839,25 @@ start timestep kper="14" kstp="14" mode="normal"
            ---                                      ---
                  WEL =     8310168.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     1787867.4903                   RIV =       8.6057E-03     RIV                              
+                 RIV =     2639015.1583                   RIV =       1.2703E-02     RIV                              
                 RCHA =      821989.7103                  RCHA =       3.9565E-03     RCH                              
-                 CHD =     4561429.3108                   CHD =       2.1956E-02     CHD                              
+                 CHD =     3479175.6001                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    15481454.5114              TOTAL IN =       7.4518E-02
+            TOTAL IN =    15250348.4687              TOTAL IN =       7.3407E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =     8310168.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =     4665863.6262                   RIV =       2.2458E-02     RIV                              
+                 RIV =     3698095.9119                   RIV =       1.7800E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     2505865.2713                   CHD =       1.2062E-02     CHD                              
+                 CHD =     3243927.0811                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    15481896.8975             TOTAL OUT =       7.4520E-02
+           TOTAL OUT =    15252190.9931             TOTAL OUT =       7.3414E-02
 
-            IN - OUT =        -442.3861              IN - OUT =      -1.9172E-06
+            IN - OUT =       -1842.5244              IN - OUT =      -7.1687E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -1942,25 +1943,25 @@ start timestep kper="15" kstp="10" mode="normal"
            ---                                      ---
                  WEL =     8836128.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     1901024.1511                   RIV =       8.6057E-03     RIV                              
+                 RIV =     2806051.2069                   RIV =       1.2703E-02     RIV                              
                 RCHA =      874014.3752                  RCHA =       3.9565E-03     RCH                              
-                 CHD =     4850127.4982                   CHD =       2.1956E-02     CHD                              
+                 CHD =     3699379.4433                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    16461294.0245              TOTAL IN =       7.4518E-02
+            TOTAL IN =    16215573.0254              TOTAL IN =       7.3407E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =     8836128.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =     4961169.0329                   RIV =       2.2458E-02     RIV                              
+                 RIV =     3932143.0320                   RIV =       1.7800E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     2664464.2360                   CHD =       1.2062E-02     CHD                              
+                 CHD =     3449237.6308                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    16461761.2689             TOTAL OUT =       7.4520E-02
+           TOTAL OUT =    16217508.6628             TOTAL OUT =       7.3414E-02
 
-            IN - OUT =        -467.2444              IN - OUT =      -1.8694E-06
+            IN - OUT =       -1935.6374              IN - OUT =      -7.0139E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -2070,25 +2071,25 @@ start timestep kper="16" kstp="14" mode="normal"
            ---                                      ---
                  WEL =     9572472.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     2059443.6864                   RIV =       8.6057E-03     RIV                              
+                 RIV =     3039903.0699                   RIV =       1.2703E-02     RIV                              
                 RCHA =      946848.9062                  RCHA =       3.9565E-03     RCH                              
-                 CHD =     5254305.0362                   CHD =       2.1956E-02     CHD                              
+                 CHD =     4007665.2145                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    17833069.6287              TOTAL IN =       7.4518E-02
+            TOTAL IN =    17566889.1906              TOTAL IN =       7.3407E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =     9572472.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =     5374595.8638                   RIV =       2.2458E-02     RIV                              
+                 RIV =     4259807.5896                   RIV =       1.7799E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     2886502.7644                   CHD =       1.2062E-02     CHD                              
+                 CHD =     3736672.2191                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    17833570.6283             TOTAL OUT =       7.4520E-02
+           TOTAL OUT =    17568951.8087             TOTAL OUT =       7.3414E-02
 
-            IN - OUT =        -500.9996              IN - OUT =      -1.8035E-06
+            IN - OUT =       -2062.6181              IN - OUT =      -6.8019E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -2174,25 +2175,25 @@ start timestep kper="17" kstp="10" mode="normal"
            ---                                      ---
                  WEL =    10098432.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     2172600.6458                   RIV =       8.6058E-03     RIV                              
+                 RIV =     3206941.0910                   RIV =       1.2704E-02     RIV                              
                 RCHA =      998873.5711                  RCHA =       3.9565E-03     RCH                              
-                 CHD =     5543003.3316                   CHD =       2.1956E-02     CHD                              
+                 CHD =     4227869.6105                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    18812909.5486              TOTAL IN =       7.4518E-02
+            TOTAL IN =    18532116.2726              TOTAL IN =       7.3407E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    10098432.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =     5669900.2258                   RIV =       2.2458E-02     RIV                              
+                 RIV =     4493852.7159                   RIV =       1.7799E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     3045101.6981                   CHD =       1.2062E-02     CHD                              
+                 CHD =     3941982.5124                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    18813433.9239             TOTAL OUT =       7.4520E-02
+           TOTAL OUT =    18534267.2283             TOTAL OUT =       7.3414E-02
 
-            IN - OUT =        -524.3754              IN - OUT =      -1.7574E-06
+            IN - OUT =       -2150.9557              IN - OUT =      -6.6537E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -2302,25 +2303,25 @@ start timestep kper="18" kstp="14" mode="normal"
            ---                                      ---
                  WEL =    10834776.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     2331020.5944                   RIV =       8.6058E-03     RIV                              
+                 RIV =     3440795.6546                   RIV =       1.2704E-02     RIV                              
                 RCHA =     1071708.1020                  RCHA =       3.9565E-03     RCH                              
-                 CHD =     5947181.0201                   CHD =       2.1956E-02     CHD                              
+                 CHD =     4536156.1392                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    20184685.7165              TOTAL IN =       7.4518E-02
+            TOTAL IN =    19883435.8958              TOTAL IN =       7.3407E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    10834776.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =     6083325.6261                   RIV =       2.2458E-02     RIV                              
+                 RIV =     4821514.5457                   RIV =       1.7799E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     3267140.1848                   CHD =       1.2062E-02     CHD                              
+                 CHD =     4229416.7497                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    20185241.8109             TOTAL OUT =       7.4520E-02
+           TOTAL OUT =    19885707.2954             TOTAL OUT =       7.3413E-02
 
-            IN - OUT =        -556.0944              IN - OUT =      -1.6942E-06
+            IN - OUT =       -2271.3995              IN - OUT =      -6.4512E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -2406,25 +2407,25 @@ start timestep kper="19" kstp="10" mode="normal"
            ---                                      ---
                  WEL =    11360736.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     2444177.8442                   RIV =       8.6058E-03     RIV                              
+                 RIV =     3607835.5610                   RIV =       1.2704E-02     RIV                              
                 RCHA =     1123732.7670                  RCHA =       3.9565E-03     RCH                              
-                 CHD =     6235879.4218                   CHD =       2.1956E-02     CHD                              
+                 CHD =     4756361.0642                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    21164526.0329              TOTAL IN =       7.4518E-02
+            TOTAL IN =    20848665.3922              TOTAL IN =       7.3407E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    11360736.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =     6378628.9911                   RIV =       2.2458E-02     RIV                              
+                 RIV =     5055557.7699                   RIV =       1.7799E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     3425739.0898                   CHD =       1.2062E-02     CHD                              
+                 CHD =     4434726.7980                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    21165104.0809             TOTAL OUT =       7.4520E-02
+           TOTAL OUT =    20851020.5680             TOTAL OUT =       7.3413E-02
 
-            IN - OUT =        -578.0480              IN - OUT =      -1.6502E-06
+            IN - OUT =       -2355.1757              IN - OUT =      -6.3098E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -2534,25 +2535,25 @@ start timestep kper="20" kstp="14" mode="normal"
            ---                                      ---
                  WEL =    12097080.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     2602598.1910                   RIV =       8.6058E-03     RIV                              
+                 RIV =     3841692.7028                   RIV =       1.2704E-02     RIV                              
                 RCHA =     1196567.2979                  RCHA =       3.9565E-03     RCH                              
-                 CHD =     6640057.2568                   CHD =       2.1956E-02     CHD                              
+                 CHD =     5064648.3168                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    22536302.7458              TOTAL IN =       7.4518E-02
+            TOTAL IN =    22199988.3176              TOTAL IN =       7.3407E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    12097080.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =     6792053.0327                   RIV =       2.2458E-02     RIV                              
+                 RIV =     5383217.0027                   RIV =       1.7799E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     3647777.5378                   CHD =       1.2062E-02     CHD                              
+                 CHD =     4722160.7004                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    22536910.5705             TOTAL OUT =       7.4520E-02
+           TOTAL OUT =    22202457.7032             TOTAL OUT =       7.3413E-02
 
-            IN - OUT =        -607.8247              IN - OUT =      -1.5901E-06
+            IN - OUT =       -2469.3856              IN - OUT =      -6.1169E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -2638,25 +2639,25 @@ start timestep kper="21" kstp="10" mode="normal"
            ---                                      ---
                  WEL =    12623040.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     2715755.7192                   RIV =       8.6058E-03     RIV                              
+                 RIV =     4008734.4069                   RIV =       1.2704E-02     RIV                              
                 RCHA =     1248591.9629                  RCHA =       3.9565E-03     RCH                              
-                 CHD =     6928755.7614                   CHD =       2.1956E-02     CHD                              
+                 CHD =     5284853.7470                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    23516143.4435              TOTAL IN =       7.4518E-02
+            TOTAL IN =    23165220.1168              TOTAL IN =       7.3407E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    12623040.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =     7087355.4544                   RIV =       2.2458E-02     RIV                              
+                 RIV =     5617258.4177                   RIV =       1.7799E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     3806376.4161                   CHD =       1.2062E-02     CHD                              
+                 CHD =     4927470.5154                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    23516771.8706             TOTAL OUT =       7.4520E-02
+           TOTAL OUT =    23167768.9330             TOTAL OUT =       7.3413E-02
 
-            IN - OUT =        -628.4270              IN - OUT =      -1.5484E-06
+            IN - OUT =       -2548.8162              IN - OUT =      -5.9823E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -2766,25 +2767,25 @@ start timestep kper="22" kstp="14" mode="normal"
            ---                                      ---
                  WEL =    13359384.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     2874176.4465                   RIV =       8.6058E-03     RIV                              
+                 RIV =     4242594.0052                   RIV =       1.2704E-02     RIV                              
                 RCHA =     1321426.4938                  RCHA =       3.9565E-03     RCH                              
-                 CHD =     7332933.7378                   CHD =       2.1956E-02     CHD                              
+                 CHD =     5593141.6903                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    24887920.6781              TOTAL IN =       7.4518E-02
+            TOTAL IN =    24516546.1894              TOTAL IN =       7.3407E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    13359384.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =     7500778.2137                   RIV =       2.2458E-02     RIV                              
+                 RIV =     5944915.1800                   RIV =       1.7799E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     4028414.8283                   CHD =       1.2062E-02     CHD                              
+                 CHD =     5214904.0990                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    24888577.0420             TOTAL OUT =       7.4520E-02
+           TOTAL OUT =    24519203.2789             TOTAL OUT =       7.3413E-02
 
-            IN - OUT =        -656.3639              IN - OUT =      -1.4917E-06
+            IN - OUT =       -2657.0896              IN - OUT =      -5.7987E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -2870,25 +2871,25 @@ start timestep kper="23" kstp="10" mode="normal"
            ---                                      ---
                  WEL =    13885344.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     2987334.2395                   RIV =       8.6058E-03     RIV                              
+                 RIV =     4409637.4217                   RIV =       1.2704E-02     RIV                              
                 RCHA =     1373451.1588                  RCHA =       3.9565E-03     RCH                              
-                 CHD =     7621632.3412                   CHD =       2.1956E-02     CHD                              
+                 CHD =     5813347.6021                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    25867761.7394              TOTAL IN =       7.4518E-02
+            TOTAL IN =    25481780.1826              TOTAL IN =       7.3407E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    13885344.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =     7796079.7466                   RIV =       2.2458E-02     RIV                              
+                 RIV =     6178954.8749                   RIV =       1.7799E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     4187013.6819                   CHD =       1.2062E-02     CHD                              
+                 CHD =     5420213.6918                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    25868437.4285             TOTAL OUT =       7.4520E-02
+           TOTAL OUT =    25484512.5667             TOTAL OUT =       7.3413E-02
 
-            IN - OUT =        -675.6891              IN - OUT =      -1.4523E-06
+            IN - OUT =       -2732.3841              IN - OUT =      -5.6707E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -2998,25 +2999,25 @@ start timestep kper="24" kstp="14" mode="normal"
            ---                                      ---
                  WEL =    14621688.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     3145755.3275                   RIV =       8.6058E-03     RIV                              
+                 RIV =     4643499.3593                   RIV =       1.2704E-02     RIV                              
                 RCHA =     1446285.6897                  RCHA =       3.9565E-03     RCH                              
-                 CHD =     8025810.4527                   CHD =       2.1956E-02     CHD                              
+                 CHD =     6121636.2036                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    27239539.4700              TOTAL IN =       7.4518E-02
+            TOTAL IN =    26833109.2527              TOTAL IN =       7.3408E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    14621688.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =     8209501.2982                   RIV =       2.2458E-02     RIV                              
+                 RIV =     6506609.2903                   RIV =       1.7799E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     4409052.0607                   CHD =       1.2062E-02     CHD                              
+                 CHD =     5707646.9722                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    27240241.3589             TOTAL OUT =       7.4520E-02
+           TOTAL OUT =    26835944.2625             TOTAL OUT =       7.3413E-02
 
-            IN - OUT =        -701.8890              IN - OUT =      -1.3988E-06
+            IN - OUT =       -2835.0098              IN - OUT =      -5.4959E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -3102,25 +3103,25 @@ start timestep kper="25" kstp="10" mode="normal"
            ---                                      ---
                  WEL =    15147648.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     3258913.3715                   RIV =       8.6058E-03     RIV                              
+                 RIV =     4810544.4060                   RIV =       1.2704E-02     RIV                              
                 RCHA =     1498310.3547                  RCHA =       3.9565E-03     RCH                              
-                 CHD =     8314509.1503                   CHD =       2.1956E-02     CHD                              
+                 CHD =     6341842.5744                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    28219380.8765              TOTAL IN =       7.4518E-02
+            TOTAL IN =    27798345.3350              TOTAL IN =       7.3408E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    15147648.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =     8504801.9943                   RIV =       2.2458E-02     RIV                              
+                 RIV =     6740647.3516                   RIV =       1.7799E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     4567650.8914                   CHD =       1.2062E-02     CHD                              
+                 CHD =     5912956.3539                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    28220100.8857             TOTAL OUT =       7.4520E-02
+           TOTAL OUT =    27801251.7055             TOTAL OUT =       7.3413E-02
 
-            IN - OUT =        -720.0092              IN - OUT =      -1.3617E-06
+            IN - OUT =       -2906.3705              IN - OUT =      -5.3743E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -3230,25 +3231,25 @@ start timestep kper="26" kstp="14" mode="normal"
            ---                                      ---
                  WEL =    15883992.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     3417334.8014                   RIV =       8.6058E-03     RIV                              
+                 RIV =     5044408.5700                   RIV =       1.2704E-02     RIV                              
                 RCHA =     1571144.8856                  RCHA =       3.9565E-03     RCH                              
-                 CHD =     8718687.3905                   CHD =       2.1956E-02     CHD                              
+                 CHD =     6650131.8028                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    29591159.0775              TOTAL IN =       7.4518E-02
+            TOTAL IN =    29149677.2584              TOTAL IN =       7.3408E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    15883992.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =     8918222.4113                   RIV =       2.2458E-02     RIV                              
+                 RIV =     7068299.5375                   RIV =       1.7799E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     4789689.2392                   CHD =       1.2062E-02     CHD                              
+                 CHD =     6200389.3462                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    29591903.6505             TOTAL OUT =       7.4520E-02
+           TOTAL OUT =    29152680.8836             TOTAL OUT =       7.3413E-02
 
-            IN - OUT =        -744.5730              IN - OUT =      -1.3114E-06
+            IN - OUT =       -3003.6252              IN - OUT =      -5.2081E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -3334,25 +3335,25 @@ start timestep kper="27" kstp="10" mode="normal"
            ---                                      ---
                  WEL =    16409952.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     3530493.0823                   RIV =       8.6059E-03     RIV                              
+                 RIV =     5211455.1680                   RIV =       1.2704E-02     RIV                              
                 RCHA =     1623169.5506                  RCHA =       3.9565E-03     RCH                              
-                 CHD =     9007386.1777                   CHD =       2.1956E-02     CHD                              
+                 CHD =     6870338.6105                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    30571000.8106              TOTAL IN =       7.4518E-02
+            TOTAL IN =    30114915.3291              TOTAL IN =       7.3408E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    16409952.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =     9213522.3224                   RIV =       2.2458E-02     RIV                              
+                 RIV =     7302336.0461                   RIV =       1.7799E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     4948288.0486                   CHD =       1.2062E-02     CHD                              
+                 CHD =     6405698.5272                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    30571762.3710             TOTAL OUT =       7.4520E-02
+           TOTAL OUT =    30117986.5734             TOTAL OUT =       7.3413E-02
 
-            IN - OUT =        -761.5604              IN - OUT =      -1.2765E-06
+            IN - OUT =       -3071.2443              IN - OUT =      -5.0923E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -3462,25 +3463,25 @@ start timestep kper="28" kstp="14" mode="normal"
            ---                                      ---
                  WEL =    17146296.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     3688914.8345                   RIV =       8.6059E-03     RIV                              
+                 RIV =     5445321.4503                   RIV =       1.2704E-02     RIV                              
                 RCHA =     1696004.0815                  RCHA =       3.9565E-03     RCH                              
-                 CHD =     9411564.5399                   CHD =       2.1956E-02     CHD                              
+                 CHD =     7178628.4358                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    31942779.4559              TOTAL IN =       7.4518E-02
+            TOTAL IN =    31466249.9677              TOTAL IN =       7.3408E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    17146296.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =     9626941.6743                   RIV =       2.2458E-02     RIV                              
+                 RIV =     7629986.1133                   RIV =       1.7799E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     5170326.3675                   CHD =       1.2062E-02     CHD                              
+                 CHD =     6693131.2456                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    31943564.0418             TOTAL OUT =       7.4520E-02
+           TOTAL OUT =    31469413.3589             TOTAL OUT =       7.3413E-02
 
-            IN - OUT =        -784.5859              IN - OUT =      -1.2292E-06
+            IN - OUT =       -3163.3912              IN - OUT =      -4.9343E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -3566,25 +3567,25 @@ start timestep kper="29" kstp="10" mode="normal"
            ---                                      ---
                  WEL =    17672256.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     3802073.3387                   RIV =       8.6059E-03     RIV                              
+                 RIV =     5612369.5242                   RIV =       1.2704E-02     RIV                              
                 RCHA =     1748028.7465                  RCHA =       3.9565E-03     RCH                              
-                 CHD =     9700263.4118                   CHD =       2.1956E-02     CHD                              
+                 CHD =     7398835.6595                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    32922621.4970              TOTAL IN =       7.4518E-02
+            TOTAL IN =    32431489.9302              TOTAL IN =       7.3408E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    17672256.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =     9922240.8483                   RIV =       2.2458E-02     RIV                              
+                 RIV =     7864021.1471                   RIV =       1.7799E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     5328925.1569                   CHD =       1.2062E-02     CHD                              
+                 CHD =     6898440.2360                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    32923422.0052             TOTAL OUT =       7.4520E-02
+           TOTAL OUT =    32434717.3831             TOTAL OUT =       7.3413E-02
 
-            IN - OUT =        -800.5083              IN - OUT =      -1.1965E-06
+            IN - OUT =       -3227.4529              IN - OUT =      -4.8243E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -3694,25 +3695,25 @@ start timestep kper="30" kstp="14" mode="normal"
            ---                                      ---
                  WEL =    18408600.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     3960495.3937                   RIV =       8.6059E-03     RIV                              
+                 RIV =     5846237.8223                   RIV =       1.2704E-02     RIV                              
                 RCHA =     1820863.2774                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    10104441.8894                   CHD =       2.1956E-02     CHD                              
+                 CHD =     7707126.0530                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    34294400.5605              TOTAL IN =       7.4518E-02
+            TOTAL IN =    33782827.1527              TOTAL IN =       7.3408E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    18408600.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    10335659.2012                   RIV =       2.2458E-02     RIV                              
+                 RIV =     8191669.2022                   RIV =       1.7799E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     5550963.4489                   CHD =       1.2062E-02     CHD                              
+                 CHD =     7185872.6941                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    34295222.6502             TOTAL OUT =       7.4520E-02
+           TOTAL OUT =    33786141.8963             TOTAL OUT =       7.3413E-02
 
-            IN - OUT =        -822.0896              IN - OUT =      -1.1521E-06
+            IN - OUT =       -3314.7436              IN - OUT =      -4.6741E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -3798,25 +3799,25 @@ start timestep kper="31" kstp="10" mode="normal"
            ---                                      ---
                  WEL =    18934560.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     4073654.1079                   RIV =       8.6059E-03     RIV                              
+                 RIV =     6013287.3004                   RIV =       1.2704E-02     RIV                              
                 RCHA =     1872887.9424                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    10393140.8415                   CHD =       2.1956E-02     CHD                              
+                 CHD =     7927333.6726                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    35274242.8918              TOTAL IN =       7.4518E-02
+            TOTAL IN =    34748068.9153              TOTAL IN =       7.3408E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    18934560.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    10630957.6842                   RIV =       2.2458E-02     RIV                              
+                 RIV =     8425702.8355                   RIV =       1.7799E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     5709562.2198                   CHD =       1.2062E-02     CHD                              
+                 CHD =     7391181.5033                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    35275079.9040             TOTAL OUT =       7.4520E-02
+           TOTAL OUT =    34751444.3388             TOTAL OUT =       7.3413E-02
 
-            IN - OUT =        -837.0122              IN - OUT =      -1.1213E-06
+            IN - OUT =       -3375.4235              IN - OUT =      -4.5695E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -3926,25 +3927,25 @@ start timestep kper="32" kstp="14" mode="normal"
            ---                                      ---
                  WEL =    19670904.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     4232076.4480                   RIV =       8.6059E-03     RIV                              
+                 RIV =     6247157.5159                   RIV =       1.2704E-02     RIV                              
                 RCHA =     1945722.4733                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    10797319.4281                   CHD =       2.1956E-02     CHD                              
+                 CHD =     8235624.6068                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    36646022.3494              TOTAL IN =       7.4518E-02
+            TOTAL IN =    36099408.5960              TOTAL IN =       7.3408E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    19670904.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    11044375.0998                   RIV =       2.2458E-02     RIV                              
+                 RIV =     8753348.9794                   RIV =       1.7799E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     5931600.4867                   CHD =       1.2062E-02     CHD                              
+                 CHD =     7678613.7142                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    36646879.5865             TOTAL OUT =       7.4519E-02
+           TOTAL OUT =    36102866.6937             TOTAL OUT =       7.3413E-02
 
-            IN - OUT =        -857.2371              IN - OUT =      -1.0796E-06
+            IN - OUT =       -3458.0977              IN - OUT =      -4.4267E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -4030,25 +4031,25 @@ start timestep kper="33" kstp="10" mode="normal"
            ---                                      ---
                  WEL =    20196864.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     4345235.3597                   RIV =       8.6059E-03     RIV                              
+                 RIV =     6414208.3296                   RIV =       1.2704E-02     RIV                              
                 RCHA =     1997747.1383                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    11086018.4557                   CHD =       2.1956E-02     CHD                              
+                 CHD =     8455832.6031                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    37625864.9537              TOTAL IN =       7.4518E-02
+            TOTAL IN =    37064652.0710              TOTAL IN =       7.3408E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    20196864.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    11339672.9348                   RIV =       2.2458E-02     RIV                              
+                 RIV =     8987381.2823                   RIV =       1.7798E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     6090199.2402                   CHD =       1.2062E-02     CHD                              
+                 CHD =     7883922.3512                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    37626736.1750             TOTAL OUT =       7.4519E-02
+           TOTAL OUT =    37068167.6336             TOTAL OUT =       7.3412E-02
 
-            IN - OUT =        -871.2214              IN - OUT =      -1.0508E-06
+            IN - OUT =       -3515.5626              IN - OUT =      -4.3272E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -4158,25 +4159,25 @@ start timestep kper="34" kstp="14" mode="normal"
            ---                                      ---
                  WEL =    20933208.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     4503657.9683                   RIV =       8.6059E-03     RIV                              
+                 RIV =     6648080.3687                   RIV =       1.2705E-02     RIV                              
                 RCHA =     2070581.6692                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    11490197.1449                   CHD =       2.1956E-02     CHD                              
+                 CHD =     8764124.0518                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    38997644.7824              TOTAL IN =       7.4518E-02
+            TOTAL IN =    38415994.0897              TOTAL IN =       7.3408E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    20933208.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    11753089.4723                   RIV =       2.2458E-02     RIV                              
+                 RIV =     9315025.6103                   RIV =       1.7798E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     6312237.4836                   CHD =       1.2062E-02     CHD                              
+                 CHD =     8171354.3272                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    38998534.9559             TOTAL OUT =       7.4519E-02
+           TOTAL OUT =    38419587.9374             TOTAL OUT =       7.3412E-02
 
-            IN - OUT =        -890.1735              IN - OUT =      -1.0117E-06
+            IN - OUT =       -3593.8478              IN - OUT =      -4.1915E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -4262,25 +4263,25 @@ start timestep kper="35" kstp="10" mode="normal"
            ---                                      ---
                  WEL =    21459168.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     4616817.0660                   RIV =       8.6059E-03     RIV                              
+                 RIV =     6815132.4530                   RIV =       1.2705E-02     RIV                              
                 RCHA =     2122606.3342                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    11778896.2437                   CHD =       2.1956E-02     CHD                              
+                 CHD =     8984332.4065                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    39977487.6438              TOTAL IN =       7.4518E-02
+            TOTAL IN =    39381239.1936              TOTAL IN =       7.3408E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    21459168.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    12048386.7000                   RIV =       2.2458E-02     RIV                              
+                 RIV =     9549056.6486                   RIV =       1.7798E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     6470836.2209                   CHD =       1.2062E-02     CHD                              
+                 CHD =     8376662.8006                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    39978390.9209             TOTAL OUT =       7.4519E-02
+           TOTAL OUT =    39384887.4492             TOTAL OUT =       7.3412E-02
 
-            IN - OUT =        -903.2771              IN - OUT =      -9.8463E-07
+            IN - OUT =       -3648.2556              IN - OUT =      -4.0969E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -4390,25 +4391,25 @@ start timestep kper="36" kstp="14" mode="normal"
            ---                                      ---
                  WEL =    22195512.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     4775239.9264                   RIV =       8.6059E-03     RIV                              
+                 RIV =     7049006.2261                   RIV =       1.2705E-02     RIV                              
                 RCHA =     2195440.8651                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    12183075.0295                   CHD =       2.1956E-02     CHD                              
+                 CHD =     9292624.3447                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    41349267.8210              TOTAL IN =       7.4518E-02
+            TOTAL IN =    40732583.4359              TOTAL IN =       7.3408E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    22195512.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    12461802.4140                   RIV =       2.2458E-02     RIV                              
+                 RIV =     9876699.2510                   RIV =       1.7798E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     6692874.4424                   CHD =       1.2062E-02     CHD                              
+                 CHD =     8664094.5532                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    41350188.8563             TOTAL OUT =       7.4519E-02
+           TOTAL OUT =    40736305.8042             TOTAL OUT =       7.3412E-02
 
-            IN - OUT =        -921.0353              IN - OUT =      -9.4796E-07
+            IN - OUT =       -3722.3684              IN - OUT =      -3.9679E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -4494,25 +4495,25 @@ start timestep kper="37" kstp="10" mode="normal"
            ---                                      ---
                  WEL =    22721472.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     4888399.1983                   RIV =       8.6059E-03     RIV                              
+                 RIV =     7216059.5181                   RIV =       1.2705E-02     RIV                              
                 RCHA =     2247465.5301                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    12471774.1952                   CHD =       2.1956E-02     CHD                              
+                 CHD =     9512833.0404                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    42329110.9235              TOTAL IN =       7.4518E-02
+            TOTAL IN =    41697830.0885              TOTAL IN =       7.3408E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    22721472.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    12757099.0726                   RIV =       2.2458E-02     RIV                              
+                 RIV =    10110729.0883                   RIV =       1.7798E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     6851473.1645                   CHD =       1.2062E-02     CHD                              
+                 CHD =     8869402.8712                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    42330044.2372             TOTAL OUT =       7.4519E-02
+           TOTAL OUT =    41701603.9595             TOTAL OUT =       7.3412E-02
 
-            IN - OUT =        -933.3137              IN - OUT =      -9.2261E-07
+            IN - OUT =       -3773.8710              IN - OUT =      -3.8780E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -4622,25 +4623,25 @@ start timestep kper="38" kstp="14" mode="normal"
            ---                                      ---
                  WEL =    23457816.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     5046822.2949                   RIV =       8.6059E-03     RIV                              
+                 RIV =     7449934.9407                   RIV =       1.2705E-02     RIV                              
                 RCHA =     2320300.0610                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    12875953.0719                   CHD =       2.1956E-02     CHD                              
+                 CHD =     9821125.4442                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    43700891.4278              TOTAL IN =       7.4518E-02
+            TOTAL IN =    43049176.4459              TOTAL IN =       7.3408E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    23457816.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    13170514.0155                   RIV =       2.2458E-02     RIV                              
+                 RIV =    10438370.0515                   RIV =       1.7798E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     7073511.3655                   CHD =       1.2062E-02     CHD                              
+                 CHD =     9156834.4116                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    43701841.3810             TOTAL OUT =       7.4519E-02
+           TOTAL OUT =    43053020.4631             TOTAL OUT =       7.3412E-02
 
-            IN - OUT =        -949.9532              IN - OUT =      -8.8818E-07
+            IN - OUT =       -3844.0172              IN - OUT =      -3.7553E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.01
 
 
 
@@ -4726,25 +4727,25 @@ start timestep kper="39" kstp="10" mode="normal"
            ---                                      ---
                  WEL =    23983776.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     5159981.7303                   RIV =       8.6059E-03     RIV                              
+                 RIV =     7616989.3821                   RIV =       1.2705E-02     RIV                              
                 RCHA =     2372324.7259                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    13164652.3005                   CHD =       2.1956E-02     CHD                              
+                 CHD =    10041334.4643                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    44680734.7567              TOTAL IN =       7.4518E-02
+            TOTAL IN =    44014424.5723              TOTAL IN =       7.3409E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    23983776.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    13465810.1400                   RIV =       2.2458E-02     RIV                              
+                 RIV =    10672398.7468                   RIV =       1.7798E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     7232110.0735                   CHD =       1.2062E-02     CHD                              
+                 CHD =     9362142.5818                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    44681696.2135             TOTAL OUT =       7.4519E-02
+           TOTAL OUT =    44018317.3287             TOTAL OUT =       7.3412E-02
 
-            IN - OUT =        -961.4568              IN - OUT =      -8.6437E-07
+            IN - OUT =       -3892.7564              IN - OUT =      -3.6698E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -4854,25 +4855,25 @@ start timestep kper="40" kstp="14" mode="normal"
            ---                                      ---
                  WEL =    24720120.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     5318405.0487                   RIV =       8.6059E-03     RIV                              
+                 RIV =     7850866.3737                   RIV =       1.2705E-02     RIV                              
                 RCHA =     2445159.2569                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    13568831.2625                   CHD =       2.1956E-02     CHD                              
+                 CHD =    10349627.3110                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    46052515.5681              TOTAL IN =       7.4518E-02
+            TOTAL IN =    45365772.9415              TOTAL IN =       7.3409E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    24720120.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    13879224.3594                   RIV =       2.2458E-02     RIV                              
+                 RIV =    11000038.1519                   RIV =       1.7798E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     7454148.2553                   CHD =       1.2062E-02     CHD                              
+                 CHD =     9649573.9207                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    46053492.6147             TOTAL OUT =       7.4519E-02
+           TOTAL OUT =    45369732.0726             TOTAL OUT =       7.3412E-02
 
-            IN - OUT =        -977.0467              IN - OUT =      -8.3216E-07
+            IN - OUT =       -3959.1311              IN - OUT =      -3.5532E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -4958,25 +4959,25 @@ start timestep kper="41" kstp="10" mode="normal"
            ---                                      ---
                  WEL =    25246080.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     5431564.6373                   RIV =       8.6059E-03     RIV                              
+                 RIV =     8017921.9075                   RIV =       1.2705E-02     RIV                              
                 RCHA =     2497183.9218                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    13857530.5502                   CHD =       2.1956E-02     CHD                              
+                 CHD =    10569836.6396                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    47032359.1094              TOTAL IN =       7.4518E-02
+            TOTAL IN =    46331022.4689              TOTAL IN =       7.3409E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    25246080.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    14174519.9844                   RIV =       2.2458E-02     RIV                              
+                 RIV =    11234065.7633                   RIV =       1.7798E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     7612746.9501                   CHD =       1.2062E-02     CHD                              
+                 CHD =     9854881.9505                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    47033346.9346             TOTAL OUT =       7.4519E-02
+           TOTAL OUT =    46335027.7138             TOTAL OUT =       7.3412E-02
 
-            IN - OUT =        -987.8252              IN - OUT =      -8.0988E-07
+            IN - OUT =       -4005.2448              IN - OUT =      -3.4720E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -5086,25 +5087,25 @@ start timestep kper="42" kstp="14" mode="normal"
            ---                                      ---
                  WEL =    25982424.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     5589988.1635                   RIV =       8.6060E-03     RIV                              
+                 RIV =     8251800.3908                   RIV =       1.2705E-02     RIV                              
                 RCHA =     2570018.4528                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    14261709.5924                   CHD =       2.1956E-02     CHD                              
+                 CHD =    10878129.9075                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    48404140.2087              TOTAL IN =       7.4518E-02
+            TOTAL IN =    47682372.7511              TOTAL IN =       7.3409E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    25982424.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    14587933.5262                   RIV =       2.2458E-02     RIV                              
+                 RIV =    11561703.6890                   RIV =       1.7798E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     7834785.1140                   CHD =       1.2062E-02     CHD                              
+                 CHD =    10142313.0977                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    48405142.6401             TOTAL OUT =       7.4519E-02
+           TOTAL OUT =    47686440.7867             TOTAL OUT =       7.3412E-02
 
-            IN - OUT =       -1002.4314              IN - OUT =      -7.7965E-07
+            IN - OUT =       -4068.0356              IN - OUT =      -3.3611E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -5190,25 +5191,25 @@ start timestep kper="43" kstp="10" mode="normal"
            ---                                      ---
                  WEL =    26508384.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     5703147.8959                   RIV =       8.6060E-03     RIV                              
+                 RIV =     8418856.9634                   RIV =       1.2705E-02     RIV                              
                 RCHA =     2622043.1177                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    14550408.9356                   CHD =       2.1956E-02     CHD                              
+                 CHD =    11098339.5296                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    49383983.9493              TOTAL IN =       7.4519E-02
+            TOTAL IN =    48647623.6107              TOTAL IN =       7.3409E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    26508384.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    14883228.6824                   RIV =       2.2458E-02     RIV                              
+                 RIV =    11795730.2698                   RIV =       1.7798E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     7993383.7963                   CHD =       1.2062E-02     CHD                              
+                 CHD =    10347620.9940                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    49384996.4788             TOTAL OUT =       7.4519E-02
+           TOTAL OUT =    48651735.2638             TOTAL OUT =       7.3412E-02
 
-            IN - OUT =       -1012.5295              IN - OUT =      -7.5878E-07
+            IN - OUT =       -4111.6531              IN - OUT =      -3.2839E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -5318,25 +5319,25 @@ start timestep kper="44" kstp="14" mode="normal"
            ---                                      ---
                  WEL =    27244728.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     5861571.6175                   RIV =       8.6060E-03     RIV                              
+                 RIV =     8652736.8649                   RIV =       1.2705E-02     RIV                              
                 RCHA =     2694877.6487                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    14954588.0531                   CHD =       2.1956E-02     CHD                              
+                 CHD =    11406633.1981                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    50755765.3192              TOTAL IN =       7.4519E-02
+            TOTAL IN =    49998975.7117              TOTAL IN =       7.3409E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    27244728.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    15296641.5898                   RIV =       2.2458E-02     RIV                              
+                 RIV =    12123366.7889                   RIV =       1.7798E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     8215421.9434                   CHD =       1.2062E-02     CHD                              
+                 CHD =    10635051.9591                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    50756791.5332             TOTAL OUT =       7.4519E-02
+           TOTAL OUT =    50003146.7481             TOTAL OUT =       7.3412E-02
 
-            IN - OUT =       -1026.2140              IN - OUT =      -7.3046E-07
+            IN - OUT =       -4171.0364              IN - OUT =      -3.1784E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -5422,25 +5423,25 @@ start timestep kper="45" kstp="10" mode="normal"
            ---                                      ---
                  WEL =    27770688.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     5974731.4850                   RIV =       8.6060E-03     RIV                              
+                 RIV =     8819794.4256                   RIV =       1.2705E-02     RIV                              
                 RCHA =     2746902.3136                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    15243287.4483                   CHD =       2.1956E-02     CHD                              
+                 CHD =    11626843.0992                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    51735609.2469              TOTAL IN =       7.4519E-02
+            TOTAL IN =    50964227.8384              TOTAL IN =       7.3409E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    27770688.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    15591936.3079                   RIV =       2.2458E-02     RIV                              
+                 RIV =    12357392.3901                   RIV =       1.7798E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     8374020.6142                   CHD =       1.2062E-02     CHD                              
+                 CHD =    10840359.7287                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    51736644.9221             TOTAL OUT =       7.4519E-02
+           TOTAL OUT =    50968440.1188             TOTAL OUT =       7.3412E-02
 
-            IN - OUT =       -1035.6752              IN - OUT =      -7.1091E-07
+            IN - OUT =       -4212.2804              IN - OUT =      -3.1050E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -5550,25 +5551,25 @@ start timestep kper="46" kstp="14" mode="normal"
            ---                                      ---
                  WEL =    28507032.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     6133155.3893                   RIV =       8.6060E-03     RIV                              
+                 RIV =     9053675.6757                   RIV =       1.2705E-02     RIV                              
                 RCHA =     2819736.8446                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    15647466.6364                   CHD =       2.1956E-02     CHD                              
+                 CHD =    11935137.1487                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    53107390.8702              TOTAL IN =       7.4519E-02
+            TOTAL IN =    52315581.6690              TOTAL IN =       7.3409E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    28507032.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    16005348.6211                   RIV =       2.2458E-02     RIV                              
+                 RIV =    12685027.5720                   RIV =       1.7798E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     8596058.7456                   CHD =       1.2062E-02     CHD                              
+                 CHD =    11127790.5207                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    53108439.3666             TOTAL OUT =       7.4519E-02
+           TOTAL OUT =    52319850.0927             TOTAL OUT =       7.3412E-02
 
-            IN - OUT =       -1048.4964              IN - OUT =      -6.8436E-07
+            IN - OUT =       -4268.4237              IN - OUT =      -3.0049E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -5654,25 +5655,25 @@ start timestep kper="47" kstp="10" mode="normal"
            ---                                      ---
                  WEL =    29032992.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     6246315.3832                   RIV =       8.6060E-03     RIV                              
+                 RIV =     9220734.1754                   RIV =       1.2705E-02     RIV                              
                 RCHA =     2871761.5095                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    15936166.0804                   CHD =       2.1956E-02     CHD                              
+                 CHD =    12155347.3151                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    54087234.9731              TOTAL IN =       7.4519E-02
+            TOTAL IN =    53280835.0001              TOTAL IN =       7.3409E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    29032992.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    16300642.9280                   RIV =       2.2458E-02     RIV                              
+                 RIV =    12919052.2423                   RIV =       1.7798E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     8754657.4055                   CHD =       1.2062E-02     CHD                              
+                 CHD =    11333098.1698                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    54088292.3335             TOTAL OUT =       7.4519E-02
+           TOTAL OUT =    53285142.4121             TOTAL OUT =       7.3412E-02
 
-            IN - OUT =       -1057.3604              IN - OUT =      -6.6603E-07
+            IN - OUT =       -4307.4120              IN - OUT =      -2.9351E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -5782,25 +5783,25 @@ start timestep kper="48" kstp="14" mode="normal"
            ---                                      ---
                  WEL =    29769336.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     6404739.4587                   RIV =       8.6060E-03     RIV                              
+                 RIV =     9454616.7079                   RIV =       1.2705E-02     RIV                              
                 RCHA =     2944596.0405                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    16340345.3346                   CHD =       2.1956E-02     CHD                              
+                 CHD =    12463641.7268                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    55459016.8338              TOTAL IN =       7.4519E-02
+            TOTAL IN =    54632190.4752              TOTAL IN =       7.3409E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    29769336.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    16714054.6841                   RIV =       2.2458E-02     RIV                              
+                 RIV =    13246686.1548                   RIV =       1.7798E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     8976695.5222                   CHD =       1.2062E-02     CHD                              
+                 CHD =    11620528.7973                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    55460086.2062             TOTAL OUT =       7.4519E-02
+           TOTAL OUT =    54636550.9521             TOTAL OUT =       7.3412E-02
 
-            IN - OUT =       -1069.3725              IN - OUT =      -6.4118E-07
+            IN - OUT =       -4360.4769              IN - OUT =      -2.8399E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -5886,25 +5887,25 @@ start timestep kper="49" kstp="10" mode="normal"
            ---                                      ---
                  WEL =    30295296.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     6517899.5708                   RIV =       8.6060E-03     RIV                              
+                 RIV =     9621676.1008                   RIV =       1.2705E-02     RIV                              
                 RCHA =     2996620.7054                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    16629044.8245                   CHD =       2.1956E-02     CHD                              
+                 CHD =    12683852.1456                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    56438861.1008              TOTAL IN =       7.4519E-02
+            TOTAL IN =    55597444.9518              TOTAL IN =       7.3409E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    30295296.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    17009348.6060                   RIV =       2.2458E-02     RIV                              
+                 RIV =    13480709.9407                   RIV =       1.7798E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     9135294.1719                   CHD =       1.2062E-02     CHD                              
+                 CHD =    11825836.3318                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    56439938.7779             TOTAL OUT =       7.4519E-02
+           TOTAL OUT =    55601842.2725             TOTAL OUT =       7.3412E-02
 
-            IN - OUT =       -1077.6772              IN - OUT =      -6.2400E-07
+            IN - OUT =       -4397.3207              IN - OUT =      -2.7735E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -6014,25 +6015,25 @@ start timestep kper="50" kstp="14" mode="normal"
            ---                                      ---
                  WEL =    31031640.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     6676323.8069                   RIV =       8.6060E-03     RIV                              
+                 RIV =     9855559.8525                   RIV =       1.2705E-02     RIV                              
                 RCHA =     3069455.2364                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    17033224.1408                   CHD =       2.1956E-02     CHD                              
+                 CHD =    12992146.9017                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    57810643.1840              TOTAL IN =       7.4519E-02
+            TOTAL IN =    56948801.9905              TOTAL IN =       7.3409E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    31031640.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    17422759.8396                   RIV =       2.2457E-02     RIV                              
+                 RIV =    13808342.6458                   RIV =       1.7798E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     9357332.2748                   CHD =       1.2062E-02     CHD                              
+                 CHD =    12113266.8030                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    57811732.1144             TOTAL OUT =       7.4519E-02
+           TOTAL OUT =    56953249.4489             TOTAL OUT =       7.3412E-02
 
-            IN - OUT =       -1088.9304              IN - OUT =      -6.0068E-07
+            IN - OUT =       -4447.4583              IN - OUT =      -2.6830E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -6118,25 +6119,25 @@ start timestep kper="51" kstp="10" mode="normal"
            ---                                      ---
                  WEL =    31557600.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     6789484.0300                   RIV =       8.6060E-03     RIV                              
+                 RIV =    10022620.0944                   RIV =       1.2705E-02     RIV                              
                 RCHA =     3121479.9013                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    17321923.6736                   CHD =       2.1956E-02     CHD                              
+                 CHD =    13212357.5603                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    58790487.6049              TOTAL IN =       7.4519E-02
+            TOTAL IN =    57914057.5561              TOTAL IN =       7.3409E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    31557600.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    17718053.4002                   RIV =       2.2457E-02     RIV                              
+                 RIV =    14042365.5912                   RIV =       1.7798E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     9515930.9151                   CHD =       1.2062E-02     CHD                              
+                 CHD =    12318574.2287                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    58791584.3153             TOTAL OUT =       7.4519E-02
+           TOTAL OUT =    57918539.8199             TOTAL OUT =       7.3412E-02
 
-            IN - OUT =       -1096.7104              IN - OUT =      -5.8460E-07
+            IN - OUT =       -4482.2638              IN - OUT =      -2.6199E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -6246,25 +6247,25 @@ start timestep kper="52" kstp="14" mode="normal"
            ---                                      ---
                  WEL =    32293944.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     6947908.4166                   RIV =       8.6060E-03     RIV                              
+                 RIV =    10256505.0048                   RIV =       1.2705E-02     RIV                              
                 RCHA =     3194314.4323                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    17726103.0481                   CHD =       2.1956E-02     CHD                              
+                 CHD =    13520652.6440                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    60162269.8969              TOTAL IN =       7.4519E-02
+            TOTAL IN =    59265416.0810              TOTAL IN =       7.3409E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    32293944.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    18131464.1450                   RIV =       2.2457E-02     RIV                              
+                 RIV =    14369997.1488                   RIV =       1.7798E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     9737969.0051                   CHD =       1.2062E-02     CHD                              
+                 CHD =    12606004.5513                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    60163377.1501             TOTAL OUT =       7.4519E-02
+           TOTAL OUT =    59269945.7002             TOTAL OUT =       7.3412E-02
 
-            IN - OUT =       -1107.2531              IN - OUT =      -5.6273E-07
+            IN - OUT =       -4529.6192              IN - OUT =      -2.5339E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -6350,25 +6351,25 @@ start timestep kper="53" kstp="10" mode="normal"
            ---                                      ---
                  WEL =    32819904.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     7061068.7442                   RIV =       8.6060E-03     RIV                              
+                 RIV =    10423566.0537                   RIV =       1.2705E-02     RIV                              
                 RCHA =     3246339.0972                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    18014802.6211                   CHD =       2.1956E-02     CHD                              
+                 CHD =    13740863.5307                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    61142114.4625              TOTAL IN =       7.4519E-02
+            TOTAL IN =    60230672.6816              TOTAL IN =       7.3409E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    32819904.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    18426757.3676                   RIV =       2.2457E-02     RIV                              
+                 RIV =    14604019.2957                   RIV =       1.7798E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =     9896567.6364                   CHD =       1.2062E-02     CHD                              
+                 CHD =    12811311.8736                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    61143229.0040             TOTAL OUT =       7.4519E-02
+           TOTAL OUT =    60235235.1693             TOTAL OUT =       7.3412E-02
 
-            IN - OUT =       -1114.5415              IN - OUT =      -5.4761E-07
+            IN - OUT =       -4562.4877              IN - OUT =      -2.4740E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -6478,25 +6479,25 @@ start timestep kper="54" kstp="14" mode="normal"
            ---                                      ---
                  WEL =    33556248.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     7219493.2718                   RIV =       8.6060E-03     RIV                              
+                 RIV =    10657452.0656                   RIV =       1.2705E-02     RIV                              
                 RCHA =     3319173.6281                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    18418982.0501                   CHD =       2.1956E-02     CHD                              
+                 CHD =    14049158.9256                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    62513896.9501              TOTAL IN =       7.4519E-02
+            TOTAL IN =    61582032.6194              TOTAL IN =       7.3409E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    33556248.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    18840167.6545                   RIV =       2.2457E-02     RIV                              
+                 RIV =    14931649.7639                   RIV =       1.7798E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =    10118605.7143                   CHD =       1.2062E-02     CHD                              
+                 CHD =    13098742.0550                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    62515021.3689             TOTAL OUT =       7.4519E-02
+           TOTAL OUT =    61586639.8189             TOTAL OUT =       7.3412E-02
 
-            IN - OUT =       -1124.4188              IN - OUT =      -5.2725E-07
+            IN - OUT =       -4607.1996              IN - OUT =      -2.3922E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -6582,25 +6583,25 @@ start timestep kper="55" kstp="10" mode="normal"
            ---                                      ---
                  WEL =    34082208.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     7332653.6966                   RIV =       8.6060E-03     RIV                              
+                 RIV =    10824513.8815                   RIV =       1.2705E-02     RIV                              
                 RCHA =     3371198.2931                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    18707681.6609                   CHD =       2.1956E-02     CHD                              
+                 CHD =    14269370.0291                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    63493741.6505              TOTAL IN =       7.4519E-02
+            TOTAL IN =    62547290.2037              TOTAL IN =       7.3409E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    34082208.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    19135460.5611                   RIV =       2.2457E-02     RIV                              
+                 RIV =    15165671.1515                   RIV =       1.7798E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =    10277204.3373                   CHD =       1.2062E-02     CHD                              
+                 CHD =    13304049.2790                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    63494872.8984             TOTAL OUT =       7.4519E-02
+           TOTAL OUT =    62551928.4305             TOTAL OUT =       7.3412E-02
 
-            IN - OUT =       -1131.2479              IN - OUT =      -5.1312E-07
+            IN - OUT =       -4638.2268              IN - OUT =      -2.3352E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -6710,25 +6711,25 @@ start timestep kper="56" kstp="14" mode="normal"
            ---                                      ---
                  WEL =    34818552.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     7491078.3562                   RIV =       8.6060E-03     RIV                              
+                 RIV =    11058400.9407                   RIV =       1.2705E-02     RIV                              
                 RCHA =     3444032.8240                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    19111861.1410                   CHD =       2.1956E-02     CHD                              
+                 CHD =    14577665.7200                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    64865524.3212              TOTAL IN =       7.4519E-02
+            TOTAL IN =    63898651.4847              TOTAL IN =       7.3409E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    34818552.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    19548870.4195                   RIV =       2.2457E-02     RIV                              
+                 RIV =    15493300.5836                   RIV =       1.7798E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =    10499242.4040                   CHD =       1.2062E-02     CHD                              
+                 CHD =    13591479.3263                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    64866664.8235             TOTAL OUT =       7.4519E-02
+           TOTAL OUT =    63903331.9098             TOTAL OUT =       7.3412E-02
 
-            IN - OUT =       -1140.5023              IN - OUT =      -4.9400E-07
+            IN - OUT =       -4680.4251              IN - OUT =      -2.2575E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -6814,25 +6815,25 @@ start timestep kper="57" kstp="10" mode="normal"
            ---                                      ---
                  WEL =    35344512.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     7604238.8721                   RIV =       8.6060E-03     RIV                              
+                 RIV =    11225463.4860                   RIV =       1.2705E-02     RIV                              
                 RCHA =     3496057.4890                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    19400560.7871                   CHD =       2.1956E-02     CHD                              
+                 CHD =    14797877.0296                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    65845369.1482              TOTAL IN =       7.4519E-02
+            TOTAL IN =    64863910.0046              TOTAL IN =       7.3409E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    35344512.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    19844163.0296                   RIV =       2.2457E-02     RIV                              
+                 RIV =    15727321.2502                   RIV =       1.7798E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =    10657841.0191                   CHD =       1.2062E-02     CHD                              
+                 CHD =    13796786.4568                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    65846516.0487             TOTAL OUT =       7.4519E-02
+           TOTAL OUT =    64868619.7069             TOTAL OUT =       7.3411E-02
 
-            IN - OUT =       -1146.9006              IN - OUT =      -4.8074E-07
+            IN - OUT =       -4709.7023              IN - OUT =      -2.2034E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -6942,25 +6943,25 @@ start timestep kper="58" kstp="14" mode="normal"
            ---                                      ---
                  WEL =    36080856.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     7762663.6553                   RIV =       8.6060E-03     RIV                              
+                 RIV =    11459351.5403                   RIV =       1.2705E-02     RIV                              
                 RCHA =     3568892.0199                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    19804740.3151                   CHD =       2.1956E-02     CHD                              
+                 CHD =    15106173.0018                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    67217151.9904              TOTAL IN =       7.4519E-02
+            TOTAL IN =    66215272.5621              TOTAL IN =       7.3409E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    36080856.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    20257572.4857                   RIV =       2.2457E-02     RIV                              
+                 RIV =    16054949.6978                   RIV =       1.7798E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =    10879879.0752                   CHD =       1.2062E-02     CHD                              
+                 CHD =    14084216.3766                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    67218307.5609             TOTAL OUT =       7.4519E-02
+           TOTAL OUT =    66220022.0744             TOTAL OUT =       7.3411E-02
 
-            IN - OUT =       -1155.5705              IN - OUT =      -4.6279E-07
+            IN - OUT =       -4749.5123              IN - OUT =      -2.1295E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -7046,25 +7047,25 @@ start timestep kper="59" kstp="10" mode="normal"
            ---                                      ---
                  WEL =    36606816.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     7875824.2570                   RIV =       8.6060E-03     RIV                              
+                 RIV =    11626414.7786                   RIV =       1.2705E-02     RIV                              
                 RCHA =     3620916.6849                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    20093439.9943                   CHD =       2.1956E-02     CHD                              
+                 CHD =    15326384.5073                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    68196996.9362              TOTAL IN =       7.4519E-02
+            TOTAL IN =    67180531.9708              TOTAL IN =       7.3409E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    36606816.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    20552864.8180                   RIV =       2.2457E-02     RIV                              
+                 RIV =    16288969.6789                   RIV =       1.7798E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =    11038477.6830                   CHD =       1.2062E-02     CHD                              
+                 CHD =    14289523.4183                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    68198158.5011             TOTAL OUT =       7.4519E-02
+           TOTAL OUT =    67185309.0972             TOTAL OUT =       7.3411E-02
 
-            IN - OUT =       -1161.5649              IN - OUT =      -4.5040E-07
+            IN - OUT =       -4777.1264              IN - OUT =      -2.0781E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -7174,25 +7175,25 @@ start timestep kper="60" kstp="14" mode="normal"
            ---                                      ---
                  WEL =    37343160.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     8034249.1562                   RIV =       8.6060E-03     RIV                              
+                 RIV =    11860303.7790                   RIV =       1.2705E-02     RIV                              
                 RCHA =     3693751.2158                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    20497619.5672                   CHD =       2.1956E-02     CHD                              
+                 CHD =    15634680.7469                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    69568779.9392              TOTAL IN =       7.4519E-02
+            TOTAL IN =    68531895.7418              TOTAL IN =       7.3409E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    37343160.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    20966273.8983                   RIV =       2.2457E-02     RIV                              
+                 RIV =    16616597.1906                   RIV =       1.7798E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =    11260515.7292                   CHD =       1.2062E-02     CHD                              
+                 CHD =    14576953.2169                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    69569949.6275             TOTAL OUT =       7.4519E-02
+           TOTAL OUT =    68536710.4075             TOTAL OUT =       7.3411E-02
 
-            IN - OUT =       -1169.6883              IN - OUT =      -4.3362E-07
+            IN - OUT =       -4814.6657              IN - OUT =      -2.0079E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -7278,25 +7279,25 @@ start timestep kper="61" kstp="10" mode="normal"
            ---                                      ---
                  WEL =    37869120.0000                   WEL =       4.0000E-02     WELL_INJECT                      
                  WEL =           0.0000                   WEL =           0.0000     WELL_EXTRACT                     
-                 RIV =     8147409.8379                   RIV =       8.6060E-03     RIV                              
+                 RIV =    12027367.6760                   RIV =       1.2705E-02     RIV                              
                 RCHA =     3745775.8808                  RCHA =       3.9565E-03     RCH                              
-                 CHD =    20786319.2775                   CHD =       2.1956E-02     CHD                              
+                 CHD =    15854892.4386                   CHD =       1.6747E-02     CHD                              
 
-            TOTAL IN =    70548624.9962              TOTAL IN =       7.4519E-02
+            TOTAL IN =    69497155.9955              TOTAL IN =       7.3409E-02
 
           OUT:                                     OUT:
           ----                                     ----
                  WEL =           0.0000                   WEL =           0.0000     WELL_INJECT                      
                  WEL =    37869120.0000                   WEL =       4.0000E-02     WELL_EXTRACT                     
-                 RIV =    21261565.9702                   RIV =       2.2457E-02     RIV                              
+                 RIV =    16850616.5201                   RIV =       1.7797E-02     RIV                              
                 RCHA =           0.0000                  RCHA =           0.0000     RCH                              
-                 CHD =    11419114.3302                   CHD =       1.2062E-02     CHD                              
+                 CHD =    14782260.1743                   CHD =       1.5614E-02     CHD                              
 
-           TOTAL OUT =    70549800.3004             TOTAL OUT =       7.4519E-02
+           TOTAL OUT =    69501996.6944             TOTAL OUT =       7.3411E-02
 
-            IN - OUT =       -1175.3043              IN - OUT =      -4.2197E-07
+            IN - OUT =       -4840.6989              IN - OUT =      -1.9590E-06
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.01     PERCENT DISCREPANCY =          -0.00
 
 
 

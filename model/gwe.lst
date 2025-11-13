@@ -259,27 +259,27 @@ start timestep kper="1" kstp="1" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =         758.8228       STORAGE-CELLBLK =         758.8228     EST                              
+     STORAGE-CELLBLK =        1499.2623       STORAGE-CELLBLK =        1499.2623     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =      539526.9818                   RIV =      539526.9818     SSM_RIV                          
+                 RIV =      595045.3631                   RIV =      595045.3631     SSM_RIV                          
                 RCHA =      264614.0081                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =     1390263.9695                   CHD =     1390263.9695     SSM_CHD                          
+                 CHD =      982218.4558                   CHD =      982218.4558     SSM_CHD                          
 
-            TOTAL IN =     2195163.7822              TOTAL IN =     2195163.7822
+            TOTAL IN =     1843377.0893              TOTAL IN =     1843377.0893
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =         849.8891       STORAGE-CELLBLK =         849.8891     EST                              
+     STORAGE-CELLBLK =        1905.9621       STORAGE-CELLBLK =        1905.9621     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =     1405939.8450                   RIV =     1405939.8450     SSM_RIV                          
+                 RIV =      849410.8229                   RIV =      849410.8229     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =      788374.1664                   CHD =      788374.1664     SSM_CHD                          
+                 CHD =      992060.3219                   CHD =      992060.3219     SSM_CHD                          
 
-           TOTAL OUT =     2195163.9005             TOTAL OUT =     2195163.9005
+           TOTAL OUT =     1843377.1069             TOTAL OUT =     1843377.1069
 
-            IN - OUT =          -0.1182              IN - OUT =          -0.1182
+            IN - OUT =      -1.7586E-02              IN - OUT =      -1.7586E-02
 
  PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
 
@@ -401,29 +401,29 @@ start timestep kper="2" kstp="14" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =  1848187842.8885       STORAGE-CELLBLK =          43.1204     EST                              
+     STORAGE-CELLBLK = 11835863619.2610       STORAGE-CELLBLK =         289.7200     EST                              
                  WEL =       6.4636E+13                   WEL =     3511200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       1.0595E+13                   RIV =      575551.9968     SSM_RIV                          
+                 RIV =       1.5636E+13                   RIV =      849542.7343     SSM_RIV                          
                 RCHA =       4.8712E+12                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       2.7024E+13                   CHD =     1467988.8123     SSM_CHD                          
+                 CHD =       2.0295E+13                   CHD =     1102488.6425     SSM_CHD                          
 
-            TOTAL IN =       1.0713E+14              TOTAL IN =     5819397.9375
+            TOTAL IN =       1.0545E+14              TOTAL IN =     5728135.1049
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       1.5390E+13       STORAGE-CELLBLK =      835925.8950     EST                              
+     STORAGE-CELLBLK =       1.5389E+13       STORAGE-CELLBLK =      835913.5993     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       4.9246E+13                   WEL =     2675185.5427     SSM_WELL_EXTRACT                 
-                 RIV =       2.7650E+13                   RIV =     1502024.4317     SSM_RIV                          
+                 WEL =       4.9241E+13                   WEL =     2674954.1768     SSM_WELL_EXTRACT                 
+                 RIV =       2.1918E+13                   RIV =     1190499.6300     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       1.4842E+13                   CHD =      806262.0681     SSM_CHD                          
+                 CHD =       1.8902E+13                   CHD =     1026767.6988     SSM_CHD                          
 
-           TOTAL OUT =       1.0713E+14             TOTAL OUT =     5819397.9375
+           TOTAL OUT =       1.0545E+14             TOTAL OUT =     5728135.1049
 
-            IN - OUT =           2.2031              IN - OUT =      -1.5460E-07
+            IN - OUT =          -1.7344              IN - OUT =      -2.1132E-06
 
- PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -515,29 +515,29 @@ start timestep kper="3" kstp="10" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       2.0516E+13       STORAGE-CELLBLK =     1474610.1477     EST                              
+     STORAGE-CELLBLK =       2.0553E+13       STORAGE-CELLBLK =     1477562.9703     EST                              
                  WEL =       8.8820E+13                   WEL =     1839200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       1.8163E+13                   RIV =      575549.2073     SSM_RIV                          
+                 RIV =       2.6806E+13                   RIV =      849542.4864     SSM_RIV                          
                 RCHA =       8.3506E+12                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       4.6326E+13                   CHD =     1467987.4062     SSM_CHD                          
+                 CHD =       3.4791E+13                   CHD =     1102490.5915     SSM_CHD                          
 
-            TOTAL IN =       1.8218E+14              TOTAL IN =     5621960.7692
+            TOTAL IN =       1.7932E+14              TOTAL IN =     5533410.0563
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       2.4910E+13       STORAGE-CELLBLK =      638464.9322     EST                              
+     STORAGE-CELLBLK =       2.4933E+13       STORAGE-CELLBLK =      641218.2978     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       8.4422E+13                   WEL =     2675201.8533     SSM_WELL_EXTRACT                 
-                 RIV =       4.7400E+13                   RIV =     1502031.7564     SSM_RIV                          
+                 WEL =       8.4414E+13                   WEL =     2674929.4959     SSM_WELL_EXTRACT                 
+                 RIV =       3.7572E+13                   RIV =     1190496.3674     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       2.5444E+13                   CHD =      806262.2274     SSM_CHD                          
+                 CHD =       3.2403E+13                   CHD =     1026765.8952     SSM_CHD                          
 
-           TOTAL OUT =       1.8218E+14             TOTAL OUT =     5621960.7692
+           TOTAL OUT =       1.7932E+14             TOTAL OUT =     5533410.0563
 
-            IN - OUT =           2.9375              IN - OUT =       1.0431E-07
+            IN - OUT =          -0.6250              IN - OUT =       3.4459E-08
 
- PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =           0.00
+ PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =           0.00
 
 
 
@@ -653,29 +653,29 @@ start timestep kper="4" kstp="14" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       3.8476E+13       STORAGE-CELLBLK =      664582.9110     EST                              
+     STORAGE-CELLBLK =       3.8632E+13       STORAGE-CELLBLK =      671839.7720     EST                              
                  WEL =       1.5346E+14                   WEL =     3511200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       2.8758E+13                   RIV =      575547.0217     SSM_RIV                          
+                 RIV =       4.2445E+13                   RIV =      849545.1049     SSM_RIV                          
                 RCHA =       1.3222E+13                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       7.3350E+13                   CHD =     1467986.3783     SSM_CHD                          
+                 CHD =       5.5086E+13                   CHD =     1102492.6967     SSM_CHD                          
 
-            TOTAL IN =       3.0726E+14              TOTAL IN =     6483930.3191
+            TOTAL IN =       3.0284E+14              TOTAL IN =     6399691.5816
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       5.8257E+13       STORAGE-CELLBLK =     1500402.5765     EST                              
+     STORAGE-CELLBLK =       5.8394E+13       STORAGE-CELLBLK =     1507279.6857     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       1.3367E+14                   WEL =     2675228.6298     SSM_WELL_EXTRACT                 
-                 RIV =       7.5051E+13                   RIV =     1502036.8217     SSM_RIV                          
+                 WEL =       1.3366E+14                   WEL =     2675155.2943     SSM_WELL_EXTRACT                 
+                 RIV =       5.9487E+13                   RIV =     1190492.1923     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       4.0286E+13                   CHD =      806262.2911     SSM_CHD                          
+                 CHD =       5.1304E+13                   CHD =     1026764.4092     SSM_CHD                          
 
-           TOTAL OUT =       3.0726E+14             TOTAL OUT =     6483930.3191
+           TOTAL OUT =       3.0284E+14             TOTAL OUT =     6399691.5816
 
-            IN - OUT =           3.0625              IN - OUT =       2.8871E-08
+            IN - OUT =          -1.0625              IN - OUT =       6.6124E-08
 
- PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =           0.00
+ PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =           0.00
 
 
 
@@ -767,29 +767,29 @@ start timestep kper="5" kstp="10" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       6.4841E+13       STORAGE-CELLBLK =     1762380.1483     EST                              
+     STORAGE-CELLBLK =       6.5112E+13       STORAGE-CELLBLK =     1772155.3247     EST                              
                  WEL =       1.7764E+14                   WEL =     1839200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       3.6326E+13                   RIV =      575546.2526     SSM_RIV                          
+                 RIV =       5.3616E+13                   RIV =      849548.1934     SSM_RIV                          
                 RCHA =       1.6701E+13                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       9.2652E+13                   CHD =     1467986.0230     SSM_CHD                          
+                 CHD =       6.9583E+13                   CHD =     1102494.0553     SSM_CHD                          
 
-            TOTAL IN =       3.8816E+14              TOTAL IN =     5909726.4319
+            TOTAL IN =       3.8265E+14              TOTAL IN =     5828011.5815
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       7.3622E+13       STORAGE-CELLBLK =      924933.5963     EST                              
+     STORAGE-CELLBLK =       7.3848E+13       STORAGE-CELLBLK =      929688.1656     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       1.6885E+14                   WEL =     2676492.4210     SSM_WELL_EXTRACT                 
-                 RIV =       9.4801E+13                   RIV =     1502038.1402     SSM_RIV                          
+                 WEL =       1.6886E+14                   WEL =     2681071.0164     SSM_WELL_EXTRACT                 
+                 RIV =       7.5141E+13                   RIV =     1190488.7572     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       5.0887E+13                   CHD =      806262.2743     SSM_CHD                          
+                 CHD =       6.4805E+13                   CHD =     1026763.6423     SSM_CHD                          
 
-           TOTAL OUT =       3.8816E+14             TOTAL OUT =     5909726.4319
+           TOTAL OUT =       3.8265E+14             TOTAL OUT =     5828011.5815
 
-            IN - OUT =           3.3125              IN - OUT =       3.9116E-08
+            IN - OUT =           1.5000              IN - OUT =      -2.9802E-08
 
- PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =           0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -905,27 +905,27 @@ start timestep kper="6" kstp="14" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       8.4793E+13       STORAGE-CELLBLK =      655915.4404     EST                              
+     STORAGE-CELLBLK =       8.5292E+13       STORAGE-CELLBLK =      666708.9736     EST                              
                  WEL =       2.4228E+14                   WEL =     3511200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       4.6921E+13                   RIV =      575545.8752     SSM_RIV                          
+                 RIV =       6.9255E+13                   RIV =      849553.4822     SSM_RIV                          
                 RCHA =       2.1572E+13                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       1.1968E+14                   CHD =     1467985.8302     SSM_CHD                          
+                 CHD =       8.9879E+13                   CHD =     1102495.8813     SSM_CHD                          
 
-            TOTAL IN =       5.1524E+14              TOTAL IN =     6475261.1539
+            TOTAL IN =       5.0827E+14              TOTAL IN =     6394572.3452
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       1.0874E+14       STORAGE-CELLBLK =     1462022.7012     EST                              
+     STORAGE-CELLBLK =       1.0887E+14       STORAGE-CELLBLK =     1446213.7402     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       2.1832E+14                   WEL =     2704938.2467     SSM_WELL_EXTRACT                 
-                 RIV =       1.2245E+14                   RIV =     1502038.0000     SSM_RIV                          
+                 WEL =       2.1864E+14                   WEL =     2731112.6017     SSM_WELL_EXTRACT                 
+                 RIV =       9.7056E+13                   RIV =     1190483.2904     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       6.5730E+13                   CHD =      806262.2060     SSM_CHD                          
+                 CHD =       8.3706E+13                   CHD =     1026762.7129     SSM_CHD                          
 
-           TOTAL OUT =       5.1524E+14             TOTAL OUT =     6475261.1539
+           TOTAL OUT =       5.0827E+14             TOTAL OUT =     6394572.3452
 
-            IN - OUT =           5.3125              IN - OUT =      -1.3690E-07
+            IN - OUT =           0.6875              IN - OUT =      -1.3132E-07
 
  PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
@@ -1019,29 +1019,29 @@ start timestep kper="7" kstp="10" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       1.1045E+14       STORAGE-CELLBLK =     1690078.6261     EST                              
+     STORAGE-CELLBLK =       1.1110E+14       STORAGE-CELLBLK =     1697377.3676     EST                              
                  WEL =       2.6646E+14                   WEL =     1839200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       5.4489E+13                   RIV =      575545.9411     SSM_RIV                          
+                 RIV =       8.0426E+13                   RIV =      849557.6700     SSM_RIV                          
                 RCHA =       2.5052E+13                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       1.3898E+14                   CHD =     1467985.8306     SSM_CHD                          
+                 CHD =       1.0438E+14                   CHD =     1102497.1643     SSM_CHD                          
 
-            TOTAL IN =       5.9543E+14              TOTAL IN =     5837424.4059
+            TOTAL IN =       5.8741E+14              TOTAL IN =     5753246.2100
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       1.2273E+14       STORAGE-CELLBLK =      788560.7573     EST                              
+     STORAGE-CELLBLK =       1.2278E+14       STORAGE-CELLBLK =      790888.8640     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       2.5417E+14                   WEL =     2740564.5388     SSM_WELL_EXTRACT                 
-                 RIV =       1.4220E+14                   RIV =     1502036.9704     SSM_RIV                          
+                 WEL =       2.5472E+14                   WEL =     2745116.2347     SSM_WELL_EXTRACT                 
+                 RIV =       1.1271E+14                   RIV =     1190479.0272     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       7.6331E+13                   CHD =      806262.1395     SSM_CHD                          
+                 CHD =       9.7207E+13                   CHD =     1026762.0842     SSM_CHD                          
 
-           TOTAL OUT =       5.9543E+14             TOTAL OUT =     5837424.4059
+           TOTAL OUT =       5.8741E+14             TOTAL OUT =     5753246.2100
 
-            IN - OUT =           5.1250              IN - OUT =       4.8429E-08
+            IN - OUT =           2.1250              IN - OUT =      -8.4937E-07
 
- PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =           0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -1157,27 +1157,27 @@ start timestep kper="8" kstp="14" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       1.2942E+14       STORAGE-CELLBLK =      624962.8431     EST                              
+     STORAGE-CELLBLK =       1.3013E+14       STORAGE-CELLBLK =      631977.1297     EST                              
                  WEL =       3.3110E+14                   WEL =     3511200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       6.5084E+13                   RIV =      575546.3375     SSM_RIV                          
+                 RIV =       9.6065E+13                   RIV =      849563.8396     SSM_RIV                          
                 RCHA =       2.9923E+13                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       1.6600E+14                   CHD =     1467985.9502     SSM_CHD                          
+                 CHD =       1.2467E+14                   CHD =     1102498.9495     SSM_CHD                          
 
-            TOTAL IN =       7.2153E+14              TOTAL IN =     6444309.1388
+            TOTAL IN =       7.1188E+14              TOTAL IN =     6359853.9269
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       1.5586E+14       STORAGE-CELLBLK =     1398498.2510     EST                              
+     STORAGE-CELLBLK =       1.5607E+14       STORAGE-CELLBLK =     1408477.9025     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       3.0464E+14                   WEL =     2737514.1212     SSM_WELL_EXTRACT                 
-                 RIV =       1.6985E+14                   RIV =     1502034.7325     SSM_RIV                          
+                 WEL =       3.0508E+14                   WEL =     2734142.0589     SSM_WELL_EXTRACT                 
+                 RIV =       1.3462E+14                   RIV =     1190472.7512     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       9.1173E+13                   CHD =      806262.0342     SSM_CHD                          
+                 CHD =       1.1611E+14                   CHD =     1026761.2143     SSM_CHD                          
 
-           TOTAL OUT =       7.2153E+14             TOTAL OUT =     6444309.1388
+           TOTAL OUT =       7.1188E+14             TOTAL OUT =     6359853.9269
 
-            IN - OUT =          -4.8750              IN - OUT =      -1.2573E-06
+            IN - OUT =          -3.2500              IN - OUT =      -2.6543E-07
 
  PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
 
@@ -1271,27 +1271,27 @@ start timestep kper="9" kstp="10" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       1.5489E+14       STORAGE-CELLBLK =     1684292.6773     EST                              
+     STORAGE-CELLBLK =       1.5573E+14       STORAGE-CELLBLK =     1692447.6997     EST                              
                  WEL =       3.5528E+14                   WEL =     1839200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       7.2652E+13                   RIV =      575546.7655     SSM_RIV                          
+                 RIV =       1.0724E+14                   RIV =      849568.3583     SSM_RIV                          
                 RCHA =       3.3402E+13                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       1.8530E+14                   CHD =     1467986.0914     SSM_CHD                          
+                 CHD =       1.3917E+14                   CHD =     1102500.2187     SSM_CHD                          
 
-            TOTAL IN =       8.0153E+14              TOTAL IN =     5831639.5423
+            TOTAL IN =       7.9081E+14              TOTAL IN =     5748330.2847
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       1.6951E+14       STORAGE-CELLBLK =      784341.0430     EST                              
+     STORAGE-CELLBLK =       1.6986E+14       STORAGE-CELLBLK =      796202.7208     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       3.4064E+14                   WEL =     2739003.7678     SSM_WELL_EXTRACT                 
-                 RIV =       1.8960E+14                   RIV =     1502032.7764     SSM_RIV                          
+                 WEL =       3.4106E+14                   WEL =     2734898.8254     SSM_WELL_EXTRACT                 
+                 RIV =       1.5028E+14                   RIV =     1190468.1450     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       1.0177E+14                   CHD =      806261.9551     SSM_CHD                          
+                 CHD =       1.2961E+14                   CHD =     1026760.5936     SSM_CHD                          
 
-           TOTAL OUT =       8.0153E+14             TOTAL OUT =     5831639.5423
+           TOTAL OUT =       7.9081E+14             TOTAL OUT =     5748330.2847
 
-            IN - OUT =          -4.3750              IN - OUT =      -5.7742E-08
+            IN - OUT =          -4.8750              IN - OUT =      -1.0105E-06
 
  PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
 
@@ -1409,29 +1409,29 @@ start timestep kper="10" kstp="14" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       1.7358E+14       STORAGE-CELLBLK =      603100.0346     EST                              
+     STORAGE-CELLBLK =       1.7456E+14       STORAGE-CELLBLK =      613716.9432     EST                              
                  WEL =       4.1992E+14                   WEL =     3511200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       8.3247E+13                   RIV =      575547.4900     SSM_RIV                          
+                 RIV =       1.2288E+14                   RIV =      849574.7357     SSM_RIV                          
                 RCHA =       3.8274E+13                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       2.1233E+14                   CHD =     1467986.3382     SSM_CHD                          
+                 CHD =       1.5946E+14                   CHD =     1102501.9838     SSM_CHD                          
 
-            TOTAL IN =       9.2734E+14              TOTAL IN =     6422447.8709
+            TOTAL IN =       9.1509E+14              TOTAL IN =     6341607.6707
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       2.0246E+14       STORAGE-CELLBLK =     1381632.8065     EST                              
+     STORAGE-CELLBLK =       2.0308E+14       STORAGE-CELLBLK =     1392957.7753     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       3.9101E+14                   WEL =     2732523.4751     SSM_WELL_EXTRACT                 
-                 RIV =       2.1725E+14                   RIV =     1502029.7460     SSM_RIV                          
+                 WEL =       3.9131E+14                   WEL =     2731428.5338     SSM_WELL_EXTRACT                 
+                 RIV =       1.7219E+14                   RIV =     1190461.6361     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       1.1662E+14                   CHD =      806261.8434     SSM_CHD                          
+                 CHD =       1.4851E+14                   CHD =     1026759.7255     SSM_CHD                          
 
-           TOTAL OUT =       9.2734E+14             TOTAL OUT =     6422447.8709
+           TOTAL OUT =       9.1509E+14             TOTAL OUT =     6341607.6707
 
-            IN - OUT =          -4.0000              IN - OUT =      -1.9092E-07
+            IN - OUT =          -2.8750              IN - OUT =       1.4342E-07
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =           0.00
 
 
 
@@ -1523,29 +1523,29 @@ start timestep kper="11" kstp="10" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       1.9878E+14       STORAGE-CELLBLK =     1666526.7750     EST                              
+     STORAGE-CELLBLK =       1.9992E+14       STORAGE-CELLBLK =     1677254.3961     EST                              
                  WEL =       4.4410E+14                   WEL =     1839200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       9.0815E+13                   RIV =      575548.0662     SSM_RIV                          
+                 RIV =       1.3405E+14                   RIV =      849579.2775     SSM_RIV                          
                 RCHA =       4.1753E+13                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       2.3163E+14                   CHD =     1467986.5375     SSM_CHD                          
+                 CHD =       1.7396E+14                   CHD =     1102503.2327     SSM_CHD                          
 
-            TOTAL IN =       1.0071E+15              TOTAL IN =     5813875.3868
+            TOTAL IN =       9.9378E+14              TOTAL IN =     5733150.9143
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       2.1589E+14       STORAGE-CELLBLK =      767767.7103     EST                              
+     STORAGE-CELLBLK =       2.1665E+14       STORAGE-CELLBLK =      780638.1039     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       4.2697E+14                   WEL =     2737818.4499     SSM_WELL_EXTRACT                 
-                 RIV =       2.3700E+14                   RIV =     1502027.4621     SSM_RIV                          
+                 WEL =       4.2728E+14                   WEL =     2735296.7072     SSM_WELL_EXTRACT                 
+                 RIV =       1.8785E+14                   RIV =     1190456.9949     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       1.2722E+14                   CHD =      806261.7645     SSM_CHD                          
+                 CHD =       1.6201E+14                   CHD =     1026759.1083     SSM_CHD                          
 
-           TOTAL OUT =       1.0071E+15             TOTAL OUT =     5813875.3868
+           TOTAL OUT =       9.9378E+14             TOTAL OUT =     5733150.9143
 
-            IN - OUT =          -4.1250              IN - OUT =      -3.7253E-09
+            IN - OUT =           0.1250              IN - OUT =      -1.4435E-07
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -1661,27 +1661,27 @@ start timestep kper="12" kstp="14" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       2.1726E+14       STORAGE-CELLBLK =      594953.0723     EST                              
+     STORAGE-CELLBLK =       2.1859E+14       STORAGE-CELLBLK =      606533.4996     EST                              
                  WEL =       5.0874E+14                   WEL =     3511200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       1.0141E+14                   RIV =      575548.9204     SSM_RIV                          
+                 RIV =       1.4969E+14                   RIV =      849585.5796     SSM_RIV                          
                 RCHA =       4.6624E+13                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       2.5865E+14                   CHD =     1467986.8363     SSM_CHD                          
+                 CHD =       1.9426E+14                   CHD =     1102504.9593     SSM_CHD                          
 
-            TOTAL IN =       1.1327E+15              TOTAL IN =     6414302.8372
+            TOTAL IN =       1.1179E+15              TOTAL IN =     6334438.0466
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       2.4863E+14       STORAGE-CELLBLK =     1372570.4651     EST                              
+     STORAGE-CELLBLK =       2.4967E+14       STORAGE-CELLBLK =     1384400.0592     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       4.7734E+14                   WEL =     2733446.5190     SSM_WELL_EXTRACT                 
-                 RIV =       2.6465E+14                   RIV =     1502024.1965     SSM_RIV                          
+                 WEL =       4.7755E+14                   WEL =     2732829.1779     SSM_WELL_EXTRACT                 
+                 RIV =       2.0976E+14                   RIV =     1190450.5575     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       1.4206E+14                   CHD =      806261.6567     SSM_CHD                          
+                 CHD =       1.8091E+14                   CHD =     1026758.2521     SSM_CHD                          
 
-           TOTAL OUT =       1.1327E+15             TOTAL OUT =     6414302.8372
+           TOTAL OUT =       1.1179E+15             TOTAL OUT =     6334438.0466
 
-            IN - OUT =          -4.2500              IN - OUT =      -7.3574E-07
+            IN - OUT =          -0.7500              IN - OUT =      -8.5682E-08
 
  PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
 
@@ -1775,29 +1775,29 @@ start timestep kper="13" kstp="10" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       2.4236E+14       STORAGE-CELLBLK =     1658090.4745     EST                              
+     STORAGE-CELLBLK =       2.4385E+14       STORAGE-CELLBLK =     1669188.6204     EST                              
                  WEL =       5.3292E+14                   WEL =     1839200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       1.0898E+14                   RIV =      575549.5513     SSM_RIV                          
+                 RIV =       1.6086E+14                   RIV =      849590.0159     SSM_RIV                          
                 RCHA =       5.0103E+13                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       2.7796E+14                   CHD =     1467987.0585     SSM_CHD                          
+                 CHD =       2.0875E+14                   CHD =     1102506.1739     SSM_CHD                          
 
-            TOTAL IN =       1.2123E+15              TOTAL IN =     5805441.0924
+            TOTAL IN =       1.1965E+15              TOTAL IN =     5725098.8183
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       2.6193E+14       STORAGE-CELLBLK =      757948.3701     EST                              
+     STORAGE-CELLBLK =       2.6312E+14       STORAGE-CELLBLK =      771148.6976     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       5.1332E+14                   WEL =     2739209.2852     SSM_WELL_EXTRACT                 
-                 RIV =       2.8440E+14                   RIV =     1502021.8551     SSM_RIV                          
+                 WEL =       5.1354E+14                   WEL =     2736746.4459     SSM_WELL_EXTRACT                 
+                 RIV =       2.2541E+14                   RIV =     1190446.0264     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       1.5266E+14                   CHD =      806261.5819     SSM_CHD                          
+                 CHD =       1.9441E+14                   CHD =     1026757.6484     SSM_CHD                          
 
-           TOTAL OUT =       1.2123E+15             TOTAL OUT =     5805441.0924
+           TOTAL OUT =       1.1965E+15             TOTAL OUT =     5725098.8183
 
-            IN - OUT =          -4.0000              IN - OUT =       1.0245E-08
+            IN - OUT =           1.7500              IN - OUT =      -9.8720E-08
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =           0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -1913,29 +1913,29 @@ start timestep kper="14" kstp="14" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       2.6071E+14       STORAGE-CELLBLK =      589599.8191     EST                              
+     STORAGE-CELLBLK =       2.6239E+14       STORAGE-CELLBLK =      601218.3069     EST                              
                  WEL =       5.9756E+14                   WEL =     3511200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       1.1957E+14                   RIV =      575550.4435     SSM_RIV                          
+                 RIV =       1.7650E+14                   RIV =      849596.1202     SSM_RIV                          
                 RCHA =       5.4975E+13                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       3.0498E+14                   CHD =     1467987.3760     SSM_CHD                          
+                 CHD =       2.2905E+14                   CHD =     1102507.8450     SSM_CHD                          
 
-            TOTAL IN =       1.3378E+15              TOTAL IN =     6408951.6467
+            TOTAL IN =       1.3205E+15              TOTAL IN =     6329136.2802
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       2.9451E+14       STORAGE-CELLBLK =     1365616.4473     EST                              
+     STORAGE-CELLBLK =       2.9599E+14       STORAGE-CELLBLK =     1377691.9200     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       5.6372E+14                   WEL =     2735055.1204     SSM_WELL_EXTRACT                 
-                 RIV =       3.1205E+14                   RIV =     1502018.5983     SSM_RIV                          
+                 WEL =       5.6383E+14                   WEL =     2734247.7483     SSM_WELL_EXTRACT                 
+                 RIV =       2.4733E+14                   RIV =     1190439.7951     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       1.6750E+14                   CHD =      806261.4808     SSM_CHD                          
+                 CHD =       2.1331E+14                   CHD =     1026756.8169     SSM_CHD                          
 
-           TOTAL OUT =       1.3378E+15             TOTAL OUT =     6408951.6467
+           TOTAL OUT =       1.3205E+15             TOTAL OUT =     6329136.2802
 
-            IN - OUT =          -6.5000              IN - OUT =      -1.2424E-06
+            IN - OUT =           0.7500              IN - OUT =      -6.9849E-08
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -2027,29 +2027,29 @@ start timestep kper="15" kstp="10" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       2.8574E+14       STORAGE-CELLBLK =     1653600.0635     EST                              
+     STORAGE-CELLBLK =       2.8758E+14       STORAGE-CELLBLK =     1664572.3879     EST                              
                  WEL =       6.2174E+14                   WEL =     1839200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       1.2714E+14                   RIV =      575551.0842     SSM_RIV                          
+                 RIV =       1.8767E+14                   RIV =      849600.3973     SSM_RIV                          
                 RCHA =       5.8454E+13                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       3.2428E+14                   CHD =     1467987.6048     SSM_CHD                          
+                 CHD =       2.4354E+14                   CHD =     1102509.0160     SSM_CHD                          
 
-            TOTAL IN =       1.4174E+15              TOTAL IN =     5800952.7605
+            TOTAL IN =       1.3990E+15              TOTAL IN =     5720495.8093
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       3.0773E+14       STORAGE-CELLBLK =      751827.2262     EST                              
+     STORAGE-CELLBLK =       3.0936E+14       STORAGE-CELLBLK =      765186.3946     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       5.9972E+14                   WEL =     2740847.8159     SSM_WELL_EXTRACT                 
-                 RIV =       3.3180E+14                   RIV =     1502016.3074     SSM_RIV                          
+                 WEL =       5.9984E+14                   WEL =     2738117.7440     SSM_WELL_EXTRACT                 
+                 RIV =       2.6298E+14                   RIV =     1190435.4367     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       1.7811E+14                   CHD =      806261.4111     SSM_CHD                          
+                 CHD =       2.2682E+14                   CHD =     1026756.2340     SSM_CHD                          
 
-           TOTAL OUT =       1.4174E+15             TOTAL OUT =     5800952.7605
+           TOTAL OUT =       1.3990E+15             TOTAL OUT =     5720495.8093
 
-            IN - OUT =          -6.5000              IN - OUT =       4.1910E-08
+            IN - OUT =           3.2500              IN - OUT =      -1.7509E-07
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =           0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -2165,29 +2165,29 @@ start timestep kper="16" kstp="14" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       3.0402E+14       STORAGE-CELLBLK =      586193.9513     EST                              
+     STORAGE-CELLBLK =       3.0604E+14       STORAGE-CELLBLK =      597554.7475     EST                              
                  WEL =       6.8638E+14                   WEL =     3511200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       1.3774E+14                   RIV =      575551.9696     SSM_RIV                          
+                 RIV =       2.0331E+14                   RIV =      849606.2530     SSM_RIV                          
                 RCHA =       6.3325E+13                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       3.5131E+14                   CHD =     1467987.9251     SSM_CHD                          
+                 CHD =       2.6384E+14                   CHD =     1102510.6221     SSM_CHD                          
 
-            TOTAL IN =       1.5428E+15              TOTAL IN =     6405547.8540
+            TOTAL IN =       1.5229E+15              TOTAL IN =     6325485.6307
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       3.4021E+14       STORAGE-CELLBLK =     1360581.9959     EST                              
+     STORAGE-CELLBLK =       3.4213E+14       STORAGE-CELLBLK =     1372760.6698     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       6.5015E+14                   WEL =     2736691.3807     SSM_WELL_EXTRACT                 
-                 RIV =       3.5945E+14                   RIV =     1502013.1603     SSM_RIV                          
+                 WEL =       6.5016E+14                   WEL =     2735540.0541     SSM_WELL_EXTRACT                 
+                 RIV =       2.8490E+14                   RIV =     1190429.4722     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       1.9295E+14                   CHD =      806261.3171     SSM_CHD                          
+                 CHD =       2.4572E+14                   CHD =     1026755.4346     SSM_CHD                          
 
-           TOTAL OUT =       1.5428E+15             TOTAL OUT =     6405547.8540
+           TOTAL OUT =       1.5229E+15             TOTAL OUT =     6325485.6307
 
-            IN - OUT =          -8.0000              IN - OUT =      -1.2387E-06
+            IN - OUT =           2.7500              IN - OUT =      -1.3225E-07
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -2279,29 +2279,29 @@ start timestep kper="17" kstp="10" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       3.2901E+14       STORAGE-CELLBLK =     1650754.0570     EST                              
+     STORAGE-CELLBLK =       3.3120E+14       STORAGE-CELLBLK =     1661478.9989     EST                              
                  WEL =       7.1056E+14                   WEL =     1839200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       1.4530E+14                   RIV =      575552.5966     SSM_RIV                          
+                 RIV =       2.1448E+14                   RIV =      849610.3460     SSM_RIV                          
                 RCHA =       6.6805E+13                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       3.7061E+14                   CHD =     1467988.1524     SSM_CHD                          
+                 CHD =       2.7834E+14                   CHD =     1102511.7449     SSM_CHD                          
 
-            TOTAL IN =       1.6223E+15              TOTAL IN =     5798108.8140
+            TOTAL IN =       1.6014E+15              TOTAL IN =     5717415.0978
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       3.5337E+14       STORAGE-CELLBLK =      747382.1709     EST                              
+     STORAGE-CELLBLK =       3.5544E+14       STORAGE-CELLBLK =      760884.9765     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       6.8617E+14                   WEL =     2742454.4249     SSM_WELL_EXTRACT                 
-                 RIV =       3.7920E+14                   RIV =     1502010.9658     SSM_RIV                          
+                 WEL =       6.8618E+14                   WEL =     2739349.9358     SSM_WELL_EXTRACT                 
+                 RIV =       3.0055E+14                   RIV =     1190425.3094     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       2.0355E+14                   CHD =      806261.2524     SSM_CHD                          
+                 CHD =       2.5922E+14                   CHD =     1026754.8760     SSM_CHD                          
 
-           TOTAL OUT =       1.6223E+15             TOTAL OUT =     5798108.8140
+           TOTAL OUT =       1.6014E+15             TOTAL OUT =     5717415.0978
 
-            IN - OUT =          -7.5000              IN - OUT =      -4.5635E-08
+            IN - OUT =           5.5000              IN - OUT =      -2.6077E-07
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -2417,29 +2417,29 @@ start timestep kper="18" kstp="14" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       3.4724E+14       STORAGE-CELLBLK =      583866.3712     EST                              
+     STORAGE-CELLBLK =       3.4961E+14       STORAGE-CELLBLK =      595113.4161     EST                              
                  WEL =       7.7520E+14                   WEL =     3511200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       1.5590E+14                   RIV =      575553.4606     SSM_RIV                          
+                 RIV =       2.3012E+14                   RIV =      849615.9450     SSM_RIV                          
                 RCHA =       7.1676E+13                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       3.9763E+14                   CHD =     1467988.4672     SSM_CHD                          
+                 CHD =       2.9863E+14                   CHD =     1102513.2820     SSM_CHD                          
 
-            TOTAL IN =       1.7476E+15              TOTAL IN =     6403222.3071
+            TOTAL IN =       1.7252E+15              TOTAL IN =     6323056.6512
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       3.8577E+14       STORAGE-CELLBLK =     1356754.4796     EST                              
+     STORAGE-CELLBLK =       3.8813E+14       STORAGE-CELLBLK =     1369209.4306     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       7.3663E+14                   WEL =     2738198.6919     SSM_WELL_EXTRACT                 
-                 RIV =       4.0685E+14                   RIV =     1502007.9703     SSM_RIV                          
+                 WEL =       7.3652E+14                   WEL =     2736673.4851     SSM_WELL_EXTRACT                 
+                 RIV =       3.2246E+14                   RIV =     1190419.6236     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       2.1839E+14                   CHD =      806261.1653     SSM_CHD                          
+                 CHD =       2.7812E+14                   CHD =     1026754.1118     SSM_CHD                          
 
-           TOTAL OUT =       1.7476E+15             TOTAL OUT =     6403222.3071
+           TOTAL OUT =       1.7252E+15             TOTAL OUT =     6323056.6512
 
-            IN - OUT =          -8.2500              IN - OUT =      -1.4035E-06
+            IN - OUT =           4.2500              IN - OUT =      -1.1083E-07
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -2531,29 +2531,29 @@ start timestep kper="19" kstp="10" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       3.7221E+14       STORAGE-CELLBLK =     1648904.9078     EST                              
+     STORAGE-CELLBLK =       3.7474E+14       STORAGE-CELLBLK =     1659449.3818     EST                              
                  WEL =       7.9938E+14                   WEL =     1839200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       1.6347E+14                   RIV =      575554.0623     SSM_RIV                          
+                 RIV =       2.4129E+14                   RIV =      849619.8540     SSM_RIV                          
                 RCHA =       7.5155E+13                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       4.1694E+14                   CHD =     1467988.6889     SSM_CHD                          
+                 CHD =       3.1313E+14                   CHD =     1102514.3551     SSM_CHD                          
 
-            TOTAL IN =       1.8271E+15              TOTAL IN =     5796261.6670
+            TOTAL IN =       1.8037E+15              TOTAL IN =     5715397.5990
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       3.9888E+14       STORAGE-CELLBLK =      744120.0620     EST                              
+     STORAGE-CELLBLK =       4.0140E+14       STORAGE-CELLBLK =      757825.2695     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       7.7266E+14                   WEL =     2743874.6100     SSM_WELL_EXTRACT                 
-                 RIV =       4.2660E+14                   RIV =     1502005.8898     SSM_RIV                          
+                 WEL =       7.7256E+14                   WEL =     2740403.0881     SSM_WELL_EXTRACT                 
+                 RIV =       3.3812E+14                   RIV =     1190415.6625     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       2.2899E+14                   CHD =      806261.1053     SSM_CHD                          
+                 CHD =       2.9162E+14                   CHD =     1026753.5788     SSM_CHD                          
 
-           TOTAL OUT =       1.8271E+15             TOTAL OUT =     5796261.6670
+           TOTAL OUT =       1.8037E+15             TOTAL OUT =     5715397.5990
 
-            IN - OUT =          -8.5000              IN - OUT =      -4.9360E-08
+            IN - OUT =           7.5000              IN - OUT =      -1.8533E-07
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -2669,29 +2669,29 @@ start timestep kper="20" kstp="14" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       3.9040E+14       STORAGE-CELLBLK =      582331.8383     EST                              
+     STORAGE-CELLBLK =       3.9311E+14       STORAGE-CELLBLK =      593507.4762     EST                              
                  WEL =       8.6402E+14                   WEL =     3511200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       1.7406E+14                   RIV =      575554.8907     SSM_RIV                          
+                 RIV =       2.5693E+14                   RIV =      849625.1919     SSM_RIV                          
                 RCHA =       8.0026E+13                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       4.4396E+14                   CHD =     1467988.9938     SSM_CHD                          
+                 CHD =       3.3343E+14                   CHD =     1102515.8227     SSM_CHD                          
 
-            TOTAL IN =       1.9525E+15              TOTAL IN =     6401689.7310
+            TOTAL IN =       1.9275E+15              TOTAL IN =     6321462.4989
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       4.3123E+14       STORAGE-CELLBLK =     1353929.6953     EST                              
+     STORAGE-CELLBLK =       4.3405E+14       STORAGE-CELLBLK =     1366685.9960     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       8.2315E+14                   WEL =     2739495.9508     SSM_WELL_EXTRACT                 
-                 RIV =       4.5425E+14                   RIV =     1502003.0602     SSM_RIV                          
+                 WEL =       8.2292E+14                   WEL =     2737613.3954     SSM_WELL_EXTRACT                 
+                 RIV =       3.6003E+14                   RIV =     1190410.2570     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       2.4384E+14                   CHD =      806261.0245     SSM_CHD                          
+                 CHD =       3.1052E+14                   CHD =     1026752.8506     SSM_CHD                          
 
-           TOTAL OUT =       1.9525E+15             TOTAL OUT =     6401689.7310
+           TOTAL OUT =       1.9275E+15             TOTAL OUT =     6321462.4989
 
-            IN - OUT =          -9.7500              IN - OUT =      -1.2442E-06
+            IN - OUT =           7.2500              IN - OUT =      -1.0151E-07
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -2783,29 +2783,29 @@ start timestep kper="21" kstp="10" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       4.1535E+14       STORAGE-CELLBLK =     1647659.5715     EST                              
+     STORAGE-CELLBLK =       4.1822E+14       STORAGE-CELLBLK =     1658105.3799     EST                              
                  WEL =       8.8820E+14                   WEL =     1839200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       1.8163E+14                   RIV =      575555.4666     SSM_RIV                          
+                 RIV =       2.6810E+14                   RIV =      849628.9160     SSM_RIV                          
                 RCHA =       8.3506E+13                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       4.6326E+14                   CHD =     1467989.2075     SSM_CHD                          
+                 CHD =       3.4792E+14                   CHD =     1102516.8466     SSM_CHD                          
 
-            TOTAL IN =       2.0319E+15              TOTAL IN =     5795018.2536
+            TOTAL IN =       2.0060E+15              TOTAL IN =     5714065.1505
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       4.4431E+14       STORAGE-CELLBLK =      741668.0275     EST                              
+     STORAGE-CELLBLK =       4.4728E+14       STORAGE-CELLBLK =      755638.4070     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       8.5920E+14                   WEL =     2745088.1570     SSM_WELL_EXTRACT                 
-                 RIV =       4.7400E+14                   RIV =     1502001.1002     SSM_RIV                          
+                 WEL =       8.5897E+14                   WEL =     2741267.9077     SSM_WELL_EXTRACT                 
+                 RIV =       3.7568E+14                   RIV =     1190406.4928     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       2.5444E+14                   CHD =      806260.9690     SSM_CHD                          
+                 CHD =       3.2402E+14                   CHD =     1026752.3430     SSM_CHD                          
 
-           TOTAL OUT =       2.0319E+15             TOTAL OUT =     5795018.2536
+           TOTAL OUT =       2.0060E+15             TOTAL OUT =     5714065.1505
 
-            IN - OUT =          -9.5000              IN - OUT =      -1.1176E-08
+            IN - OUT =           9.7500              IN - OUT =      -1.7509E-07
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -2921,29 +2921,29 @@ start timestep kper="22" kstp="14" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       4.3353E+14       STORAGE-CELLBLK =      581369.2094     EST                              
+     STORAGE-CELLBLK =       4.3657E+14       STORAGE-CELLBLK =      592353.7322     EST                              
                  WEL =       9.5284E+14                   WEL =     3511200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       1.9222E+14                   RIV =      575556.2540     SSM_RIV                          
+                 RIV =       2.8374E+14                   RIV =      849633.9996     SSM_RIV                          
                 RCHA =       8.8377E+13                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       4.9029E+14                   CHD =     1467989.5002     SSM_CHD                          
+                 CHD =       3.6822E+14                   CHD =     1102518.2460     SSM_CHD                          
 
-            TOTAL IN =       2.1573E+15              TOTAL IN =     6400728.9717
+            TOTAL IN =       2.1298E+15              TOTAL IN =     6320319.9859
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       4.7661E+14       STORAGE-CELLBLK =     1351864.1037     EST                              
+     STORAGE-CELLBLK =       4.7989E+14       STORAGE-CELLBLK =     1364780.2570     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       9.0971E+14                   WEL =     2740605.5344     SSM_WELL_EXTRACT                 
-                 RIV =       5.0165E+14                   RIV =     1501998.4395     SSM_RIV                          
+                 WEL =       9.0934E+14                   WEL =     2738386.7207     SSM_WELL_EXTRACT                 
+                 RIV =       3.9760E+14                   RIV =     1190401.3582     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       2.6928E+14                   CHD =      806260.8940     SSM_CHD                          
+                 CHD =       3.4292E+14                   CHD =     1026751.6500     SSM_CHD                          
 
-           TOTAL OUT =       2.1573E+15             TOTAL OUT =     6400728.9717
+           TOTAL OUT =       2.1298E+15             TOTAL OUT =     6320319.9859
 
-            IN - OUT =         -11.2500              IN - OUT =      -1.2442E-06
+            IN - OUT =           8.2500              IN - OUT =      -1.3039E-08
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -3035,29 +3035,29 @@ start timestep kper="23" kstp="10" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       4.5847E+14       STORAGE-CELLBLK =     1646848.0961     EST                              
+     STORAGE-CELLBLK =       4.6167E+14       STORAGE-CELLBLK =     1657137.5254     EST                              
                  WEL =       9.7702E+14                   WEL =     1839200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       1.9979E+14                   RIV =      575556.8002     SSM_RIV                          
+                 RIV =       2.9492E+14                   RIV =      849637.5459     SSM_RIV                          
                 RCHA =       9.1856E+13                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       5.0959E+14                   CHD =     1467989.7046     SSM_CHD                          
+                 CHD =       3.8272E+14                   CHD =     1102519.2218     SSM_CHD                          
 
-            TOTAL IN =       2.2367E+15              TOTAL IN =     5794208.6090
+            TOTAL IN =       2.2082E+15              TOTAL IN =     5713108.3011
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       4.8966E+14       STORAGE-CELLBLK =      739816.0735     EST                              
+     STORAGE-CELLBLK =       4.9311E+14       STORAGE-CELLBLK =      753972.5593     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       9.4578E+14                   WEL =     2746135.0963     SSM_WELL_EXTRACT                 
-                 RIV =       5.2140E+14                   RIV =     1501996.5968     SSM_RIV                          
+                 WEL =       9.4540E+14                   WEL =     2741986.7918     SSM_WELL_EXTRACT                 
+                 RIV =       4.1325E+14                   RIV =     1190397.7827     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       2.7988E+14                   CHD =      806260.8424     SSM_CHD                          
+                 CHD =       3.5642E+14                   CHD =     1026751.1672     SSM_CHD                          
 
-           TOTAL OUT =       2.2367E+15             TOTAL OUT =     5794208.6090
+           TOTAL OUT =       2.2082E+15             TOTAL OUT =     5713108.3011
 
-            IN - OUT =         -10.2500              IN - OUT =      -2.3283E-08
+            IN - OUT =          10.7500              IN - OUT =      -1.4622E-07
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -3173,29 +3173,29 @@ start timestep kper="24" kstp="14" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       4.7663E+14       STORAGE-CELLBLK =      580739.7358     EST                              
+     STORAGE-CELLBLK =       4.8001E+14       STORAGE-CELLBLK =      591589.3495     EST                              
                  WEL =       1.0417E+15                   WEL =     3511200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       2.1039E+14                   RIV =      575557.5457     SSM_RIV                          
+                 RIV =       3.1056E+14                   RIV =      849642.3891     SSM_RIV                          
                 RCHA =       9.6728E+13                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       5.3661E+14                   CHD =     1467989.9839     SSM_CHD                          
+                 CHD =       4.0301E+14                   CHD =     1102520.5551     SSM_CHD                          
 
-            TOTAL IN =       2.3620E+15              TOTAL IN =     6400101.2735
+            TOTAL IN =       2.3320E+15              TOTAL IN =     6319566.3019
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       5.2194E+14       STORAGE-CELLBLK =     1350267.2412     EST                              
+     STORAGE-CELLBLK =       5.2569E+14       STORAGE-CELLBLK =     1363380.1005     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       9.9630E+14                   WEL =     2741579.1643     SSM_WELL_EXTRACT                 
-                 RIV =       5.4905E+14                   RIV =     1501994.0953     SSM_RIV                          
+                 WEL =       9.9579E+14                   WEL =     2739042.7853     SSM_WELL_EXTRACT                 
+                 RIV =       4.3516E+14                   RIV =     1190392.9079     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       2.9472E+14                   CHD =      806260.7727     SSM_CHD                          
+                 CHD =       3.7532E+14                   CHD =     1026750.5082     SSM_CHD                          
 
-           TOTAL OUT =       2.3620E+15             TOTAL OUT =     6400101.2735
+           TOTAL OUT =       2.3320E+15             TOTAL OUT =     6319566.3019
 
-            IN - OUT =         -12.0000              IN - OUT =      -1.2079E-06
+            IN - OUT =          10.0000              IN - OUT =      -6.4261E-08
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -3287,29 +3287,29 @@ start timestep kper="25" kstp="10" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       5.0156E+14       STORAGE-CELLBLK =     1646269.3321     EST                              
+     STORAGE-CELLBLK =       5.0509E+14       STORAGE-CELLBLK =     1656471.7230     EST                              
                  WEL =       1.0658E+15                   WEL =     1839200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       2.1796E+14                   RIV =      575558.0644     SSM_RIV                          
+                 RIV =       3.2173E+14                   RIV =      849645.7619     SSM_RIV                          
                 RCHA =       1.0021E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       5.5591E+14                   CHD =     1467990.1785     SSM_CHD                          
+                 CHD =       4.1751E+14                   CHD =     1102521.4846     SSM_CHD                          
 
-            TOTAL IN =       2.4415E+15              TOTAL IN =     5793631.5831
+            TOTAL IN =       2.4104E+15              TOTAL IN =     5712452.9775
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       5.3497E+14       STORAGE-CELLBLK =      738317.4842     EST                              
+     STORAGE-CELLBLK =       5.3888E+14       STORAGE-CELLBLK =      752709.0636     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       1.0324E+15                   WEL =     2747061.0066     SSM_WELL_EXTRACT                 
-                 RIV =       5.6880E+14                   RIV =     1501992.3676     SSM_RIV                          
+                 WEL =       1.0319E+15                   WEL =     2742604.3498     SSM_WELL_EXTRACT                 
+                 RIV =       4.5081E+14                   RIV =     1190389.5149     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       3.0532E+14                   CHD =      806260.7247     SSM_CHD                          
+                 CHD =       3.8882E+14                   CHD =     1026750.0493     SSM_CHD                          
 
-           TOTAL OUT =       2.4415E+15             TOTAL OUT =     5793631.5831
+           TOTAL OUT =       2.4104E+15             TOTAL OUT =     5712452.9775
 
-            IN - OUT =         -11.5000              IN - OUT =       6.1467E-08
+            IN - OUT =          13.0000              IN - OUT =      -1.6671E-07
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =           0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -3425,29 +3425,29 @@ start timestep kper="26" kstp="14" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       5.1971E+14       STORAGE-CELLBLK =      580308.4888     EST                              
+     STORAGE-CELLBLK =       5.2342E+14       STORAGE-CELLBLK =      591017.6335     EST                              
                  WEL =       1.1305E+15                   WEL =     3511200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       2.2855E+14                   RIV =      575558.7678     SSM_RIV                          
+                 RIV =       3.3737E+14                   RIV =      849650.3697     SSM_RIV                          
                 RCHA =       1.0508E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       5.8294E+14                   CHD =     1467990.4439     SSM_CHD                          
+                 CHD =       4.3780E+14                   CHD =     1102522.7544     SSM_CHD                          
 
-            TOTAL IN =       2.5668E+15              TOTAL IN =     6399671.7086
+            TOTAL IN =       2.5341E+15              TOTAL IN =     6319004.7656
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       5.6722E+14       STORAGE-CELLBLK =     1348979.0122     EST                              
+     STORAGE-CELLBLK =       5.7144E+14       STORAGE-CELLBLK =     1362259.0916     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       1.0829E+15                   WEL =     2742442.0128     SSM_WELL_EXTRACT                 
-                 RIV =       5.9645E+14                   RIV =     1501990.0237     SSM_RIV                          
+                 WEL =       1.0823E+15                   WEL =     2739611.3701     SSM_WELL_EXTRACT                 
+                 RIV =       4.7273E+14                   RIV =     1190384.8811     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       3.2017E+14                   CHD =      806260.6599     SSM_CHD                          
+                 CHD =       4.0773E+14                   CHD =     1026749.4228     SSM_CHD                          
 
-           TOTAL OUT =       2.5668E+15             TOTAL OUT =     6399671.7086
+           TOTAL OUT =       2.5341E+15             TOTAL OUT =     6319004.7656
 
-            IN - OUT =         -12.0000              IN - OUT =      -1.3169E-06
+            IN - OUT =          12.0000              IN - OUT =      -4.7497E-08
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -3539,29 +3539,29 @@ start timestep kper="27" kstp="10" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       5.4464E+14       STORAGE-CELLBLK =     1645936.5850     EST                              
+     STORAGE-CELLBLK =       5.4849E+14       STORAGE-CELLBLK =     1655988.0038     EST                              
                  WEL =       1.1547E+15                   WEL =     1839200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       2.3612E+14                   RIV =      575559.2569     SSM_RIV                          
+                 RIV =       3.4854E+14                   RIV =      849653.5786     SSM_RIV                          
                 RCHA =       1.0856E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       6.0224E+14                   CHD =     1467990.6284     SSM_CHD                          
+                 CHD =       4.5230E+14                   CHD =     1102523.6393     SSM_CHD                          
 
-            TOTAL IN =       2.6462E+15              TOTAL IN =     5793300.4784
+            TOTAL IN =       2.6126E+15              TOTAL IN =     5711979.2299
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       5.8023E+14       STORAGE-CELLBLK =      737171.6675     EST                              
+     STORAGE-CELLBLK =       5.8462E+14       STORAGE-CELLBLK =      751708.0952     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       1.1190E+15                   WEL =     2747879.7949     SSM_WELL_EXTRACT                 
-                 RIV =       6.1620E+14                   RIV =     1501988.4008     SSM_RIV                          
+                 WEL =       1.1183E+15                   WEL =     2743140.4928     SSM_WELL_EXTRACT                 
+                 RIV =       4.8838E+14                   RIV =     1190381.6553     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       3.3077E+14                   CHD =      806260.6152     SSM_CHD                          
+                 CHD =       4.2123E+14                   CHD =     1026748.9865     SSM_CHD                          
 
-           TOTAL OUT =       2.6462E+15             TOTAL OUT =     5793300.4784
+           TOTAL OUT =       2.6126E+15             TOTAL OUT =     5711979.2299
 
-            IN - OUT =         -12.0000              IN - OUT =       2.8871E-08
+            IN - OUT =          15.0000              IN - OUT =      -2.0955E-07
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =           0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -3677,29 +3677,29 @@ start timestep kper="28" kstp="14" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       5.6279E+14       STORAGE-CELLBLK =      580033.8561     EST                              
+     STORAGE-CELLBLK =       5.6681E+14       STORAGE-CELLBLK =      590652.8604     EST                              
                  WEL =       1.2193E+15                   WEL =     3511200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       2.4671E+14                   RIV =      575559.9204     SSM_RIV                          
+                 RIV =       3.6418E+14                   RIV =      849657.9628     SSM_RIV                          
                 RCHA =       1.1343E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       6.2926E+14                   CHD =     1467990.8797     SSM_CHD                          
+                 CHD =       4.7260E+14                   CHD =     1102524.8481     SSM_CHD                          
 
-            TOTAL IN =       2.7715E+15              TOTAL IN =     6399398.6643
+            TOTAL IN =       2.7363E+15              TOTAL IN =     6318649.6794
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       6.1246E+14       STORAGE-CELLBLK =     1347951.6633     EST                              
+     STORAGE-CELLBLK =       6.1717E+14       STORAGE-CELLBLK =     1361418.8771     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       1.1696E+15                   WEL =     2743200.2424     SSM_WELL_EXTRACT                 
-                 RIV =       6.4385E+14                   RIV =     1501986.2039     SSM_RIV                          
+                 WEL =       1.1687E+15                   WEL =     2740105.1537     SSM_WELL_EXTRACT                 
+                 RIV =       5.1029E+14                   RIV =     1190377.2575     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       3.4561E+14                   CHD =      806260.5547     SSM_CHD                          
+                 CHD =       4.4013E+14                   CHD =     1026748.3911     SSM_CHD                          
 
-           TOTAL OUT =       2.7715E+15             TOTAL OUT =     6399398.6643
+           TOTAL OUT =       2.7363E+15             TOTAL OUT =     6318649.6794
 
-            IN - OUT =         -13.5000              IN - OUT =      -1.1306E-06
+            IN - OUT =          13.5000              IN - OUT =      -7.7300E-08
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -3791,29 +3791,29 @@ start timestep kper="29" kstp="10" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       5.8771E+14       STORAGE-CELLBLK =     1645676.3561     EST                              
+     STORAGE-CELLBLK =       5.9189E+14       STORAGE-CELLBLK =     1655662.8606     EST                              
                  WEL =       1.2435E+15                   WEL =     1839200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       2.5428E+14                   RIV =      575560.3798     SSM_RIV                          
+                 RIV =       3.7536E+14                   RIV =      849661.0178     SSM_RIV                          
                 RCHA =       1.1691E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       6.4857E+14                   CHD =     1467991.0543     SSM_CHD                          
+                 CHD =       4.8709E+14                   CHD =     1102525.6905     SSM_CHD                          
 
-            TOTAL IN =       2.8509E+15              TOTAL IN =     5793041.7982
+            TOTAL IN =       2.8147E+15              TOTAL IN =     5711663.5769
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       6.2546E+14       STORAGE-CELLBLK =      736201.1893     EST                              
+     STORAGE-CELLBLK =       6.3034E+14       STORAGE-CELLBLK =      750934.2077     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       1.2057E+15                   WEL =     2748595.4114     SSM_WELL_EXTRACT                 
-                 RIV =       6.6360E+14                   RIV =     1501984.6845     SSM_RIV                          
+                 WEL =       1.2048E+15                   WEL =     2743607.1952     SSM_WELL_EXTRACT                 
+                 RIV =       5.2595E+14                   RIV =     1190374.1976     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       3.5621E+14                   CHD =      806260.5130     SSM_CHD                          
+                 CHD =       4.5363E+14                   CHD =     1026747.9765     SSM_CHD                          
 
-           TOTAL OUT =       2.8509E+15             TOTAL OUT =     5793041.7982
+           TOTAL OUT =       2.8147E+15             TOTAL OUT =     5711663.5769
 
-            IN - OUT =         -13.5000              IN - OUT =      -2.7940E-09
+            IN - OUT =          16.5000              IN - OUT =      -1.7043E-07
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -3929,29 +3929,29 @@ start timestep kper="30" kstp="14" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       6.0586E+14       STORAGE-CELLBLK =      579840.6923     EST                              
+     STORAGE-CELLBLK =       6.1020E+14       STORAGE-CELLBLK =      590376.9099     EST                              
                  WEL =       1.3081E+15                   WEL =     3511200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       2.6488E+14                   RIV =      575561.0031     SSM_RIV                          
+                 RIV =       3.9100E+14                   RIV =      849665.1881     SSM_RIV                          
                 RCHA =       1.2178E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       6.7559E+14                   CHD =     1467991.2918     SSM_CHD                          
+                 CHD =       5.0739E+14                   CHD =     1102526.8410     SSM_CHD                          
 
-            TOTAL IN =       2.9762E+15              TOTAL IN =     6399206.9953
+            TOTAL IN =       2.9385E+15              TOTAL IN =     6318382.9471
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       6.5768E+14       STORAGE-CELLBLK =     1347106.0961     EST                              
+     STORAGE-CELLBLK =       6.6287E+14       STORAGE-CELLBLK =     1360727.7003     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       1.2562E+15                   WEL =     2743857.8159     SSM_WELL_EXTRACT                 
-                 RIV =       6.9125E+14                   RIV =     1501982.6267     SSM_RIV                          
+                 WEL =       1.2552E+15                   WEL =     2740537.8161     SSM_WELL_EXTRACT                 
+                 RIV =       5.4786E+14                   RIV =     1190370.0202     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       3.7105E+14                   CHD =      806260.4566     SSM_CHD                          
+                 CHD =       4.7253E+14                   CHD =     1026747.4105     SSM_CHD                          
 
-           TOTAL OUT =       2.9762E+15             TOTAL OUT =     6399206.9953
+           TOTAL OUT =       2.9385E+15             TOTAL OUT =     6318382.9471
 
-            IN - OUT =         -14.0000              IN - OUT =      -1.2564E-06
+            IN - OUT =          15.5000              IN - OUT =      -1.0803E-07
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -4043,29 +4043,29 @@ start timestep kper="31" kstp="10" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       6.3077E+14       STORAGE-CELLBLK =     1645516.7472     EST                              
+     STORAGE-CELLBLK =       6.3527E+14       STORAGE-CELLBLK =     1655413.6627     EST                              
                  WEL =       1.3323E+15                   WEL =     1839200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       2.7245E+14                   RIV =      575561.4350     SSM_RIV                          
+                 RIV =       4.0217E+14                   RIV =      849668.0934     SSM_RIV                          
                 RCHA =       1.2526E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       6.9489E+14                   CHD =     1467991.4565     SSM_CHD                          
+                 CHD =       5.2189E+14                   CHD =     1102527.6427     SSM_CHD                          
 
-            TOTAL IN =       3.0557E+15              TOTAL IN =     5792883.6468
+            TOTAL IN =       3.0169E+15              TOTAL IN =     5711423.4069
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       6.7067E+14       STORAGE-CELLBLK =      735428.9779     EST                              
+     STORAGE-CELLBLK =       6.7603E+14       STORAGE-CELLBLK =      750291.5482     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       1.2923E+15                   WEL =     2749213.0473     SSM_WELL_EXTRACT                 
-                 RIV =       7.1100E+14                   RIV =     1501981.2039     SSM_RIV                          
+                 WEL =       1.2913E+15                   WEL =     2744017.7271     SSM_WELL_EXTRACT                 
+                 RIV =       5.6351E+14                   RIV =     1190367.1152     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       3.8166E+14                   CHD =      806260.4177     SSM_CHD                          
+                 CHD =       4.8603E+14                   CHD =     1026747.0164     SSM_CHD                          
 
-           TOTAL OUT =       3.0557E+15             TOTAL OUT =     5792883.6468
+           TOTAL OUT =       3.0169E+15             TOTAL OUT =     5711423.4069
 
-            IN - OUT =         -14.0000              IN - OUT =       2.7940E-09
+            IN - OUT =          18.5000              IN - OUT =      -6.4261E-08
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =           0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -4181,29 +4181,29 @@ start timestep kper="32" kstp="14" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       6.4892E+14       STORAGE-CELLBLK =      579728.8360     EST                              
+     STORAGE-CELLBLK =       6.5358E+14       STORAGE-CELLBLK =      590182.3651     EST                              
                  WEL =       1.3969E+15                   WEL =     3511200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       2.8304E+14                   RIV =      575562.0221     SSM_RIV                          
+                 RIV =       4.1781E+14                   RIV =      849672.0618     SSM_RIV                          
                 RCHA =       1.3013E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       7.2192E+14                   CHD =     1467991.6805     SSM_CHD                          
+                 CHD =       5.4218E+14                   CHD =     1102528.7376     SSM_CHD                          
 
-            TOTAL IN =       3.1809E+15              TOTAL IN =     6399096.5466
+            TOTAL IN =       3.1406E+15              TOTAL IN =     6318197.1726
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       7.0287E+14       STORAGE-CELLBLK =     1346433.9317     EST                              
+     STORAGE-CELLBLK =       7.0855E+14       STORAGE-CELLBLK =     1360168.4017     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       1.3429E+15                   WEL =     2744422.9757     SSM_WELL_EXTRACT                 
-                 RIV =       7.3865E+14                   RIV =     1501979.2742     SSM_RIV                          
+                 WEL =       1.3417E+15                   WEL =     2740919.1431     SSM_WELL_EXTRACT                 
+                 RIV =       5.8542E+14                   RIV =     1190363.1493     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       3.9650E+14                   CHD =      806260.3650     SSM_CHD                          
+                 CHD =       5.0493E+14                   CHD =     1026746.4785     SSM_CHD                          
 
-           TOTAL OUT =       3.1809E+15             TOTAL OUT =     6399096.5466
+           TOTAL OUT =       3.1406E+15             TOTAL OUT =     6318197.1726
 
-            IN - OUT =         -15.0000              IN - OUT =      -1.2303E-06
+            IN - OUT =          17.5000              IN - OUT =      -7.9162E-08
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -4295,29 +4295,29 @@ start timestep kper="33" kstp="10" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       6.7384E+14       STORAGE-CELLBLK =     1645426.9579     EST                              
+     STORAGE-CELLBLK =       6.7865E+14       STORAGE-CELLBLK =     1655243.5119     EST                              
                  WEL =       1.4211E+15                   WEL =     1839200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       2.9061E+14                   RIV =      575562.4296     SSM_RIV                          
+                 RIV =       4.2898E+14                   RIV =      849674.8248     SSM_RIV                          
                 RCHA =       1.3361E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       7.4122E+14                   CHD =     1467991.8358     SSM_CHD                          
+                 CHD =       5.5668E+14                   CHD =     1102529.5004     SSM_CHD                          
 
-            TOTAL IN =       3.2604E+15              TOTAL IN =     5792795.2313
+            TOTAL IN =       3.2190E+15              TOTAL IN =     5711261.8452
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       7.1585E+14       STORAGE-CELLBLK =      734813.5422     EST                              
+     STORAGE-CELLBLK =       7.2170E+14       STORAGE-CELLBLK =      749776.0201     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       1.3790E+15                   WEL =     2749743.4186     SSM_WELL_EXTRACT                 
-                 RIV =       7.5840E+14                   RIV =     1501977.9418     SSM_RIV                          
+                 WEL =       1.3778E+15                   WEL =     2744379.3334     SSM_WELL_EXTRACT                 
+                 RIV =       6.0108E+14                   RIV =     1190360.3878     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       4.0710E+14                   CHD =      806260.3287     SSM_CHD                          
+                 CHD =       5.1843E+14                   CHD =     1026746.1039     SSM_CHD                          
 
-           TOTAL OUT =       3.2604E+15             TOTAL OUT =     5792795.2313
+           TOTAL OUT =       3.2190E+15             TOTAL OUT =     5711261.8452
 
-            IN - OUT =         -14.5000              IN - OUT =       6.3330E-08
+            IN - OUT =          20.5000              IN - OUT =      -1.1455E-07
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =           0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -4433,29 +4433,29 @@ start timestep kper="34" kstp="14" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       6.9198E+14       STORAGE-CELLBLK =      579655.8250     EST                              
+     STORAGE-CELLBLK =       6.9695E+14       STORAGE-CELLBLK =      590042.2892     EST                              
                  WEL =       1.4858E+15                   WEL =     3511200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       3.0120E+14                   RIV =      575562.9819     SSM_RIV                          
+                 RIV =       4.4462E+14                   RIV =      849678.5980     SSM_RIV                          
                 RCHA =       1.3848E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       7.6824E+14                   CHD =     1467992.0467     SSM_CHD                          
+                 CHD =       5.7698E+14                   CHD =     1102530.5422     SSM_CHD                          
 
-            TOTAL IN =       3.3857E+15              TOTAL IN =     6399024.8617
+            TOTAL IN =       3.3428E+15              TOTAL IN =     6318065.4375
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       7.4804E+14       STORAGE-CELLBLK =     1345879.8431     EST                              
+     STORAGE-CELLBLK =       7.5421E+14       STORAGE-CELLBLK =     1359708.9595     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       1.4296E+15                   WEL =     2744908.6026     SSM_WELL_EXTRACT                 
-                 RIV =       7.8605E+14                   RIV =     1501976.1366     SSM_RIV                          
+                 WEL =       1.4283E+15                   WEL =     2741254.2654     SSM_WELL_EXTRACT                 
+                 RIV =       6.2299E+14                   RIV =     1190356.6200     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       4.2194E+14                   CHD =      806260.2794     SSM_CHD                          
+                 CHD =       5.3733E+14                   CHD =     1026745.5926     SSM_CHD                          
 
-           TOTAL OUT =       3.3857E+15             TOTAL OUT =     6399024.8617
+           TOTAL OUT =       3.3428E+15             TOTAL OUT =     6318065.4375
 
-            IN - OUT =         -16.0000              IN - OUT =      -1.3253E-06
+            IN - OUT =          20.0000              IN - OUT =      -7.6368E-08
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -4547,29 +4547,29 @@ start timestep kper="35" kstp="10" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       7.1689E+14       STORAGE-CELLBLK =     1645363.6098     EST                              
+     STORAGE-CELLBLK =       7.2202E+14       STORAGE-CELLBLK =     1655109.3299     EST                              
                  WEL =       1.5099E+15                   WEL =     1839200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       3.0877E+14                   RIV =      575563.3632     SSM_RIV                          
+                 RIV =       4.5580E+14                   RIV =      849681.2255     SSM_RIV                          
                 RCHA =       1.4196E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       7.8755E+14                   CHD =     1467992.1928     SSM_CHD                          
+                 CHD =       5.9147E+14                   CHD =     1102531.2680     SSM_CHD                          
 
-            TOTAL IN =       3.4651E+15              TOTAL IN =     5792733.1739
+            TOTAL IN =       3.4212E+15              TOTAL IN =     5711135.8315
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       7.6101E+14       STORAGE-CELLBLK =      734298.2821     EST                              
+     STORAGE-CELLBLK =       7.6736E+14       STORAGE-CELLBLK =      749339.9354     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       1.4658E+15                   WEL =     2750199.7580     SSM_WELL_EXTRACT                 
-                 RIV =       8.0580E+14                   RIV =     1501974.8883     SSM_RIV                          
+                 WEL =       1.4644E+15                   WEL =     2744696.6622     SSM_WELL_EXTRACT                 
+                 RIV =       6.3864E+14                   RIV =     1190353.9974     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       4.3254E+14                   CHD =      806260.2455     SSM_CHD                          
+                 CHD =       5.5083E+14                   CHD =     1026745.2365     SSM_CHD                          
 
-           TOTAL OUT =       3.4651E+15             TOTAL OUT =     5792733.1739
+           TOTAL OUT =       3.4212E+15             TOTAL OUT =     5711135.8315
 
-            IN - OUT =         -15.5000              IN - OUT =      -7.4506E-09
+            IN - OUT =          22.5000              IN - OUT =      -2.0675E-07
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -4685,29 +4685,29 @@ start timestep kper="36" kstp="14" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       7.3503E+14       STORAGE-CELLBLK =      579609.7037     EST                              
+     STORAGE-CELLBLK =       7.4032E+14       STORAGE-CELLBLK =      589939.4232     EST                              
                  WEL =       1.5746E+15                   WEL =     3511200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       3.1937E+14                   RIV =      575563.8802     SSM_RIV                          
+                 RIV =       4.7144E+14                   RIV =      849684.8123     SSM_RIV                          
                 RCHA =       1.4683E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       8.1457E+14                   CHD =     1467992.3913     SSM_CHD                          
+                 CHD =       6.1177E+14                   CHD =     1102532.2591     SSM_CHD                          
 
-            TOTAL IN =       3.5904E+15              TOTAL IN =     6398979.9833
+            TOTAL IN =       3.5449E+15              TOTAL IN =     6317970.5027
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       7.9319E+14       STORAGE-CELLBLK =     1345418.4732     EST                              
+     STORAGE-CELLBLK =       7.9986E+14       STORAGE-CELLBLK =     1359327.0422     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       1.5164E+15                   WEL =     2745328.1133     SSM_WELL_EXTRACT                 
-                 RIV =       8.3345E+14                   RIV =     1501973.1973     SSM_RIV                          
+                 WEL =       1.5148E+15                   WEL =     2741548.2894     SSM_WELL_EXTRACT                 
+                 RIV =       6.6055E+14                   RIV =     1190350.4206     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       4.4738E+14                   CHD =      806260.1994     SSM_CHD                          
+                 CHD =       5.6973E+14                   CHD =     1026744.7505     SSM_CHD                          
 
-           TOTAL OUT =       3.5904E+15             TOTAL OUT =     6398979.9833
+           TOTAL OUT =       3.5449E+15             TOTAL OUT =     6317970.5027
 
-            IN - OUT =         -17.0000              IN - OUT =      -1.2731E-06
+            IN - OUT =          22.5000              IN - OUT =      -7.5437E-08
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -4799,29 +4799,29 @@ start timestep kper="37" kstp="10" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       7.5995E+14       STORAGE-CELLBLK =     1645327.0980     EST                              
+     STORAGE-CELLBLK =       7.6539E+14       STORAGE-CELLBLK =     1655024.8391     EST                              
                  WEL =       1.5988E+15                   WEL =     1839200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       3.2694E+14                   RIV =      575564.2389     SSM_RIV                          
+                 RIV =       4.8261E+14                   RIV =      849687.3116     SSM_RIV                          
                 RCHA =       1.5031E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       8.3387E+14                   CHD =     1467992.5287     SSM_CHD                          
+                 CHD =       6.2627E+14                   CHD =     1102532.9495     SSM_CHD                          
 
-            TOTAL IN =       3.6698E+15              TOTAL IN =     5792697.8736
+            TOTAL IN =       3.6233E+15              TOTAL IN =     5711059.1082
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       8.0616E+14       STORAGE-CELLBLK =      733870.0140     EST                              
+     STORAGE-CELLBLK =       8.1301E+14       STORAGE-CELLBLK =      748991.5323     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       1.5525E+15                   WEL =     2750595.6630     SSM_WELL_EXTRACT                 
-                 RIV =       8.5319E+14                   RIV =     1501972.0289     SSM_RIV                          
+                 WEL =       1.5509E+15                   WEL =     2744975.2338     SSM_WELL_EXTRACT                 
+                 RIV =       6.7621E+14                   RIV =     1190347.9302     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       4.5799E+14                   CHD =      806260.1677     SSM_CHD                          
+                 CHD =       5.8323E+14                   CHD =     1026744.4120     SSM_CHD                          
 
-           TOTAL OUT =       3.6698E+15             TOTAL OUT =     5792697.8736
+           TOTAL OUT =       3.6233E+15             TOTAL OUT =     5711059.1082
 
-            IN - OUT =         -16.5000              IN - OUT =      -2.7940E-08
+            IN - OUT =          25.5000              IN - OUT =      -1.5739E-07
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -4937,29 +4937,29 @@ start timestep kper="38" kstp="14" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       7.7809E+14       STORAGE-CELLBLK =      579585.1429     EST                              
+     STORAGE-CELLBLK =       7.8369E+14       STORAGE-CELLBLK =      589864.7697     EST                              
                  WEL =       1.6634E+15                   WEL =     3511200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       3.3753E+14                   RIV =      575564.7247     SSM_RIV                          
+                 RIV =       4.9825E+14                   RIV =      849690.7257     SSM_RIV                          
                 RCHA =       1.5518E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       8.6090E+14                   CHD =     1467992.7152     SSM_CHD                          
+                 CHD =       6.4656E+14                   CHD =     1102533.8923     SSM_CHD                          
 
-            TOTAL IN =       3.7951E+15              TOTAL IN =     6398956.5910
+            TOTAL IN =       3.7471E+15              TOTAL IN =     6317903.3957
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       8.3834E+14       STORAGE-CELLBLK =     1345031.2547     EST                              
+     STORAGE-CELLBLK =       8.4550E+14       STORAGE-CELLBLK =     1359008.1845     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       1.6031E+15                   WEL =     2745694.7693     SSM_WELL_EXTRACT                 
-                 RIV =       8.8084E+14                   RIV =     1501970.4423     SSM_RIV                          
+                 WEL =       1.6013E+15                   WEL =     2741806.7317     SSM_WELL_EXTRACT                 
+                 RIV =       6.9812E+14                   RIV =     1190344.5297     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       4.7283E+14                   CHD =      806260.1246     SSM_CHD                          
+                 CHD =       6.0214E+14                   CHD =     1026743.9499     SSM_CHD                          
 
-           TOTAL OUT =       3.7951E+15             TOTAL OUT =     6398956.5910
+           TOTAL OUT =       3.7471E+15             TOTAL OUT =     6317903.3957
 
-            IN - OUT =         -17.0000              IN - OUT =      -1.2778E-06
+            IN - OUT =          24.5000              IN - OUT =      -7.2643E-08
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -5051,29 +5051,29 @@ start timestep kper="39" kstp="10" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       8.0300E+14       STORAGE-CELLBLK =     1645308.7900     EST                              
+     STORAGE-CELLBLK =       8.0875E+14       STORAGE-CELLBLK =     1654956.8593     EST                              
                  WEL =       1.6876E+15                   WEL =     1839200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       3.4510E+14                   RIV =      575565.0603     SSM_RIV                          
+                 RIV =       5.0942E+14                   RIV =      849693.1040     SSM_RIV                          
                 RCHA =       1.5866E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       8.8020E+14                   CHD =     1467992.8443     SSM_CHD                          
+                 CHD =       6.6106E+14                   CHD =     1102534.5490     SSM_CHD                          
 
-            TOTAL IN =       3.8745E+15              TOTAL IN =     5792680.7027
+            TOTAL IN =       3.8255E+15              TOTAL IN =     5710998.5205
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       8.5130E+14       STORAGE-CELLBLK =      733507.6589     EST                              
+     STORAGE-CELLBLK =       8.5864E+14       STORAGE-CELLBLK =      748692.3509     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       1.6392E+15                   WEL =     2750943.6034     SSM_WELL_EXTRACT                 
-                 RIV =       9.0059E+14                   RIV =     1501969.3455     SSM_RIV                          
+                 WEL =       1.6374E+15                   WEL =     2745220.3785     SSM_WELL_EXTRACT                 
+                 RIV =       7.1377E+14                   RIV =     1190342.1629     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       4.8343E+14                   CHD =      806260.0949     SSM_CHD                          
+                 CHD =       6.1564E+14                   CHD =     1026743.6281     SSM_CHD                          
 
-           TOTAL OUT =       3.8745E+15             TOTAL OUT =     5792680.7027
+           TOTAL OUT =       3.8255E+15             TOTAL OUT =     5710998.5205
 
-            IN - OUT =         -17.5000              IN - OUT =       6.7987E-08
+            IN - OUT =          27.5000              IN - OUT =      -1.7229E-07
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =           0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -5189,29 +5189,29 @@ start timestep kper="40" kstp="14" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       8.2114E+14       STORAGE-CELLBLK =      579573.3693     EST                              
+     STORAGE-CELLBLK =       8.2706E+14       STORAGE-CELLBLK =      589808.4713     EST                              
                  WEL =       1.7522E+15                   WEL =     3511200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       3.5569E+14                   RIV =      575565.5157     SSM_RIV                          
+                 RIV =       5.2507E+14                   RIV =      849696.3493     SSM_RIV                          
                 RCHA =       1.6353E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       9.0722E+14                   CHD =     1467993.0195     SSM_CHD                          
+                 CHD =       6.8136E+14                   CHD =     1102535.4458     SSM_CHD                          
 
-            TOTAL IN =       3.9998E+15              TOTAL IN =     6398945.9127
+            TOTAL IN =       3.9492E+15              TOTAL IN =     6317854.2745
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       8.8347E+14       STORAGE-CELLBLK =     1344698.6427     EST                              
+     STORAGE-CELLBLK =       8.9113E+14       STORAGE-CELLBLK =     1358737.5131     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       1.6898E+15                   WEL =     2746019.3520     SSM_WELL_EXTRACT                 
-                 RIV =       9.2824E+14                   RIV =     1501967.8634     SSM_RIV                          
+                 WEL =       1.6879E+15                   WEL =     2742034.6351     SSM_WELL_EXTRACT                 
+                 RIV =       7.3568E+14                   RIV =     1190338.9374     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       4.9827E+14                   CHD =      806260.0546     SSM_CHD                          
+                 CHD =       6.3454E+14                   CHD =     1026743.1888     SSM_CHD                          
 
-           TOTAL OUT =       3.9998E+15             TOTAL OUT =     6398945.9127
+           TOTAL OUT =       3.9492E+15             TOTAL OUT =     6317854.2745
 
-            IN - OUT =         -17.5000              IN - OUT =      -1.3523E-06
+            IN - OUT =          26.5000              IN - OUT =      -9.1270E-08
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -5303,29 +5303,29 @@ start timestep kper="41" kstp="10" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       8.4606E+14       STORAGE-CELLBLK =     1645300.2859     EST                              
+     STORAGE-CELLBLK =       8.5212E+14       STORAGE-CELLBLK =     1654902.8554     EST                              
                  WEL =       1.7764E+15                   WEL =     1839200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       3.6326E+14                   RIV =      575565.8313     SSM_RIV                          
+                 RIV =       5.3624E+14                   RIV =      849698.6096     SSM_RIV                          
                 RCHA =       1.6701E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       9.2652E+14                   CHD =     1467993.1408     SSM_CHD                          
+                 CHD =       6.9585E+14                   CHD =     1102536.0704     SSM_CHD                          
 
-            TOTAL IN =       4.0793E+15              TOTAL IN =     5792673.2661
+            TOTAL IN =       4.0276E+15              TOTAL IN =     5710951.5435
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       8.9643E+14       STORAGE-CELLBLK =      733193.4166     EST                              
+     STORAGE-CELLBLK =       9.0427E+14       STORAGE-CELLBLK =      748435.1594     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       1.7260E+15                   WEL =     2751252.9838     SSM_WELL_EXTRACT                 
-                 RIV =       9.4799E+14                   RIV =     1501966.8389     SSM_RIV                          
+                 WEL =       1.7240E+15                   WEL =     2745436.8105     SSM_WELL_EXTRACT                 
+                 RIV =       7.5133E+14                   RIV =     1190336.6908     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       5.0887E+14                   CHD =      806260.0268     SSM_CHD                          
+                 CHD =       6.4804E+14                   CHD =     1026742.8829     SSM_CHD                          
 
-           TOTAL OUT =       4.0793E+15             TOTAL OUT =     5792673.2661
+           TOTAL OUT =       4.0276E+15             TOTAL OUT =     5710951.5435
 
-            IN - OUT =         -17.5000              IN - OUT =       9.2201E-08
+            IN - OUT =          28.0000              IN - OUT =      -1.3597E-07
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =           0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -5441,29 +5441,29 @@ start timestep kper="42" kstp="14" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       8.6420E+14       STORAGE-CELLBLK =      579568.9189     EST                              
+     STORAGE-CELLBLK =       8.7042E+14       STORAGE-CELLBLK =      589768.7653     EST                              
                  WEL =       1.8410E+15                   WEL =     3511200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       3.7386E+14                   RIV =      575566.2581     SSM_RIV                          
+                 RIV =       5.5188E+14                   RIV =      849701.6955     SSM_RIV                          
                 RCHA =       1.7188E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       9.5355E+14                   CHD =     1467993.3052     SSM_CHD                          
+                 CHD =       7.1615E+14                   CHD =     1102536.9233     SSM_CHD                          
 
-            TOTAL IN =       4.2045E+15              TOTAL IN =     6398942.4903
+            TOTAL IN =       4.1514E+15              TOTAL IN =     6317821.3921
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       9.2859E+14       STORAGE-CELLBLK =     1344407.5684     EST                              
+     STORAGE-CELLBLK =       9.3676E+14       STORAGE-CELLBLK =     1358509.0377     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       1.7766E+15                   WEL =     2746309.4854     SSM_WELL_EXTRACT                 
-                 RIV =       9.7564E+14                   RIV =     1501965.4474     SSM_RIV                          
+                 WEL =       1.7744E+15                   WEL =     2742236.2641     SSM_WELL_EXTRACT                 
+                 RIV =       7.7325E+14                   RIV =     1190333.6251     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       5.2372E+14                   CHD =      806259.9891     SSM_CHD                          
+                 CHD =       6.6694E+14                   CHD =     1026742.4652     SSM_CHD                          
 
-           TOTAL OUT =       4.2045E+15             TOTAL OUT =     6398942.4903
+           TOTAL OUT =       4.1514E+15             TOTAL OUT =     6317821.3921
 
-            IN - OUT =         -18.0000              IN - OUT =      -1.2256E-06
+            IN - OUT =          27.0000              IN - OUT =      -4.1910E-08
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -5555,29 +5555,29 @@ start timestep kper="43" kstp="10" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       8.8912E+14       STORAGE-CELLBLK =     1645296.9410     EST                              
+     STORAGE-CELLBLK =       8.9548E+14       STORAGE-CELLBLK =     1654871.6942     EST                              
                  WEL =       1.8652E+15                   WEL =     1839200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       3.8143E+14                   RIV =      575566.5554     SSM_RIV                          
+                 RIV =       5.6305E+14                   RIV =      849703.8444     SSM_RIV                          
                 RCHA =       1.7536E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       9.7285E+14                   CHD =     1467993.4190     SSM_CHD                          
+                 CHD =       7.3065E+14                   CHD =     1102537.5174     SSM_CHD                          
 
-            TOTAL IN =       4.2840E+15              TOTAL IN =     5792670.9235
+            TOTAL IN =       4.2298E+15              TOTAL IN =     5710927.0640
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       9.4155E+14       STORAGE-CELLBLK =      732915.9766     EST                              
+     STORAGE-CELLBLK =       9.4989E+14       STORAGE-CELLBLK =      748224.7097     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       1.8127E+15                   WEL =     2751530.4934     SSM_WELL_EXTRACT                 
-                 RIV =       9.9539E+14                   RIV =     1501964.4905     SSM_RIV                          
+                 WEL =       1.8105E+15                   WEL =     2745628.6933     SSM_WELL_EXTRACT                 
+                 RIV =       7.8890E+14                   RIV =     1190331.4868     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       5.3432E+14                   CHD =      806259.9631     SSM_CHD                          
+                 CHD =       6.8044E+14                   CHD =     1026742.1742     SSM_CHD                          
 
-           TOTAL OUT =       4.2840E+15             TOTAL OUT =     5792670.9235
+           TOTAL OUT =       4.2298E+15             TOTAL OUT =     5710927.0640
 
-            IN - OUT =         -17.5000              IN - OUT =       4.6566E-09
+            IN - OUT =          30.5000              IN - OUT =      -1.8440E-07
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =           0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -5693,29 +5693,29 @@ start timestep kper="44" kstp="14" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       9.0725E+14       STORAGE-CELLBLK =      579566.2553     EST                              
+     STORAGE-CELLBLK =       9.1378E+14       STORAGE-CELLBLK =      589740.7034     EST                              
                  WEL =       1.9299E+15                   WEL =     3511200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       3.9202E+14                   RIV =      575566.9561     SSM_RIV                          
+                 RIV =       5.7870E+14                   RIV =      849706.7809     SSM_RIV                          
                 RCHA =       1.8023E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       9.9987E+14                   CHD =     1467993.5734     SSM_CHD                          
+                 CHD =       7.5094E+14                   CHD =     1102538.3284     SSM_CHD                          
 
-            TOTAL IN =       4.4092E+15              TOTAL IN =     6398940.7929
+            TOTAL IN =       4.3535E+15              TOTAL IN =     6317799.8207
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       9.7370E+14       STORAGE-CELLBLK =     1344147.0574     EST                              
+     STORAGE-CELLBLK =       9.8237E+14       STORAGE-CELLBLK =     1358314.0161     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       1.8633E+15                   WEL =     2746570.6196     SSM_WELL_EXTRACT                 
-                 RIV =       1.0230E+15                   RIV =     1501963.1881     SSM_RIV                          
+                 WEL =       1.8610E+15                   WEL =     2742415.4545     SSM_WELL_EXTRACT                 
+                 RIV =       8.1081E+14                   RIV =     1190328.5731     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       5.4916E+14                   CHD =      806259.9278     SSM_CHD                          
+                 CHD =       6.9934E+14                   CHD =     1026741.7771     SSM_CHD                          
 
-           TOTAL OUT =       4.4092E+15             TOTAL OUT =     6398940.7929
+           TOTAL OUT =       4.3535E+15             TOTAL OUT =     6317799.8207
 
-            IN - OUT =         -18.0000              IN - OUT =      -1.2917E-06
+            IN - OUT =          28.5000              IN - OUT =      -6.5193E-08
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -5807,29 +5807,29 @@ start timestep kper="45" kstp="10" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       9.3217E+14       STORAGE-CELLBLK =     1645294.7914     EST                              
+     STORAGE-CELLBLK =       9.3884E+14       STORAGE-CELLBLK =     1654840.6819     EST                              
                  WEL =       1.9540E+15                   WEL =     1839200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       3.9959E+14                   RIV =      575567.2333     SSM_RIV                          
+                 RIV =       5.8987E+14                   RIV =      849708.8227     SSM_RIV                          
                 RCHA =       1.8371E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       1.0192E+15                   CHD =     1467993.6801     SSM_CHD                          
+                 CHD =       7.6544E+14                   CHD =     1102538.8934     SSM_CHD                          
 
-            TOTAL IN =       4.4887E+15              TOTAL IN =     5792669.7129
+            TOTAL IN =       4.4319E+15              TOTAL IN =     5710902.4061
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       9.8666E+14       STORAGE-CELLBLK =      732667.0276     EST                              
+     STORAGE-CELLBLK =       9.9550E+14       STORAGE-CELLBLK =      748034.7716     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       1.8995E+15                   WEL =     2751780.4914     SSM_WELL_EXTRACT                 
-                 RIV =       1.0428E+15                   RIV =     1501962.2904     SSM_RIV                          
+                 WEL =       1.8971E+15                   WEL =     2745799.5898     SSM_WELL_EXTRACT                 
+                 RIV =       8.2646E+14                   RIV =     1190326.5443     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       5.5976E+14                   CHD =      806259.9034     SSM_CHD                          
+                 CHD =       7.1284E+14                   CHD =     1026741.5004     SSM_CHD                          
 
-           TOTAL OUT =       4.4887E+15             TOTAL OUT =     5792669.7129
+           TOTAL OUT =       4.4319E+15             TOTAL OUT =     5710902.4061
 
-            IN - OUT =         -18.0000              IN - OUT =       3.9116E-08
+            IN - OUT =          32.0000              IN - OUT =      -2.3004E-07
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =           0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -5945,29 +5945,29 @@ start timestep kper="46" kstp="14" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       9.5031E+14       STORAGE-CELLBLK =      579565.1759     EST                              
+     STORAGE-CELLBLK =       9.5714E+14       STORAGE-CELLBLK =      589714.0276     EST                              
                  WEL =       2.0187E+15                   WEL =     3511200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       4.1019E+14                   RIV =      575567.6092     SSM_RIV                          
+                 RIV =       6.0551E+14                   RIV =      849711.6130     SSM_RIV                          
                 RCHA =       1.8858E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       1.0462E+15                   CHD =     1467993.8249     SSM_CHD                          
+                 CHD =       7.8574E+14                   CHD =     1102539.6647     SSM_CHD                          
 
-            TOTAL IN =       4.6140E+15              TOTAL IN =     6398940.6180
+            TOTAL IN =       4.5557E+15              TOTAL IN =     6317779.3133
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       1.0188E+15       STORAGE-CELLBLK =     1343913.7110     EST                              
+     STORAGE-CELLBLK =       1.0280E+15       STORAGE-CELLBLK =     1358138.7409     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       1.9501E+15                   WEL =     2746805.9663     SSM_WELL_EXTRACT                 
-                 RIV =       1.0704E+15                   RIV =     1501961.0703     SSM_RIV                          
+                 WEL =       1.9476E+15                   WEL =     2742575.6727     SSM_WELL_EXTRACT                 
+                 RIV =       8.4837E+14                   RIV =     1190323.7769     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       5.7460E+14                   CHD =      806259.8704     SSM_CHD                          
+                 CHD =       7.3174E+14                   CHD =     1026741.1227     SSM_CHD                          
 
-           TOTAL OUT =       4.6140E+15             TOTAL OUT =     6398940.6180
+           TOTAL OUT =       4.5557E+15             TOTAL OUT =     6317779.3133
 
-            IN - OUT =         -20.0000              IN - OUT =      -1.1874E-06
+            IN - OUT =          30.0000              IN - OUT =      -6.5193E-08
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -6059,29 +6059,29 @@ start timestep kper="47" kstp="10" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       9.7522E+14       STORAGE-CELLBLK =     1645294.2469     EST                              
+     STORAGE-CELLBLK =       9.8221E+14       STORAGE-CELLBLK =     1654818.0504     EST                              
                  WEL =       2.0429E+15                   WEL =     1839200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       4.1775E+14                   RIV =      575567.8673     SSM_RIV                          
+                 RIV =       6.1668E+14                   RIV =      849713.5553     SSM_RIV                          
                 RCHA =       1.9206E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       1.0655E+15                   CHD =     1467993.9250     SSM_CHD                          
+                 CHD =       8.0023E+14                   CHD =     1102540.2019     SSM_CHD                          
 
-            TOTAL IN =       4.6934E+15              TOTAL IN =     5792670.0473
+            TOTAL IN =       4.6340E+15              TOTAL IN =     5710885.8157
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       1.0318E+15       STORAGE-CELLBLK =      732444.1282     EST                              
+     STORAGE-CELLBLK =       1.0411E+15       STORAGE-CELLBLK =      747870.3023     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       1.9863E+15                   WEL =     2752005.8444     SSM_WELL_EXTRACT                 
-                 RIV =       1.0902E+15                   RIV =     1501960.2272     SSM_RIV                          
+                 WEL =       1.9837E+15                   WEL =     2745952.8018     SSM_WELL_EXTRACT                 
+                 RIV =       8.6403E+14                   RIV =     1190321.8519     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       5.8520E+14                   CHD =      806259.8476     SSM_CHD                          
+                 CHD =       7.4524E+14                   CHD =     1026740.8596     SSM_CHD                          
 
-           TOTAL OUT =       4.6934E+15             TOTAL OUT =     5792670.0473
+           TOTAL OUT =       4.6340E+15             TOTAL OUT =     5710885.8157
 
-            IN - OUT =         -19.0000              IN - OUT =      -5.4017E-08
+            IN - OUT =          33.0000              IN - OUT =      -1.4994E-07
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -6197,29 +6197,29 @@ start timestep kper="48" kstp="14" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       9.9336E+14       STORAGE-CELLBLK =      579565.0593     EST                              
+     STORAGE-CELLBLK =       1.0005E+15       STORAGE-CELLBLK =      589693.9147     EST                              
                  WEL =       2.1075E+15                   WEL =     3511200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       4.2835E+14                   RIV =      575568.2201     SSM_RIV                          
+                 RIV =       6.3232E+14                   RIV =      849716.2073     SSM_RIV                          
                 RCHA =       1.9693E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       1.0925E+15                   CHD =     1467994.0608     SSM_CHD                          
+                 CHD =       8.2053E+14                   CHD =     1102540.9353     SSM_CHD                          
 
-            TOTAL IN =       4.8187E+15              TOTAL IN =     6398941.3483
+            TOTAL IN =       4.7578E+15              TOTAL IN =     6317765.0654
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       1.0639E+15       STORAGE-CELLBLK =     1343704.1893     EST                              
+     STORAGE-CELLBLK =       1.0736E+15       STORAGE-CELLBLK =     1357985.6396     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       2.0369E+15                   WEL =     2747018.2559     SSM_WELL_EXTRACT                 
-                 RIV =       1.1178E+15                   RIV =     1501959.0863     SSM_RIV                          
+                 WEL =       2.0341E+15                   WEL =     2742719.7065     SSM_WELL_EXTRACT                 
+                 RIV =       8.8594E+14                   RIV =     1190319.2188     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       6.0005E+14                   CHD =      806259.8167     SSM_CHD                          
+                 CHD =       7.6414E+14                   CHD =     1026740.5004     SSM_CHD                          
 
-           TOTAL OUT =       4.8187E+15             TOTAL OUT =     6398941.3483
+           TOTAL OUT =       4.7578E+15             TOTAL OUT =     6317765.0654
 
-            IN - OUT =         -20.0000              IN - OUT =      -1.2089E-06
+            IN - OUT =          33.0000              IN - OUT =      -9.1270E-08
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -6311,29 +6311,29 @@ start timestep kper="49" kstp="10" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       1.0183E+15       STORAGE-CELLBLK =     1645294.3381     EST                              
+     STORAGE-CELLBLK =       1.0256E+15       STORAGE-CELLBLK =     1654799.4831     EST                              
                  WEL =       2.1317E+15                   WEL =     1839200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       4.3592E+14                   RIV =      575568.4627     SSM_RIV                          
+                 RIV =       6.4350E+14                   RIV =      849718.0567     SSM_RIV                          
                 RCHA =       2.0041E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       1.1118E+15                   CHD =     1467994.1547     SSM_CHD                          
+                 CHD =       8.3503E+14                   CHD =     1102541.4461     SSM_CHD                          
 
-            TOTAL IN =       4.8981E+15              TOTAL IN =     5792670.9635
+            TOTAL IN =       4.8362E+15              TOTAL IN =     5710872.9940
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       1.0769E+15       STORAGE-CELLBLK =      732243.5125     EST                              
+     STORAGE-CELLBLK =       1.0867E+15       STORAGE-CELLBLK =      747724.6517     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       2.0730E+15                   WEL =     2752209.3590     SSM_WELL_EXTRACT                 
-                 RIV =       1.1376E+15                   RIV =     1501958.2967     SSM_RIV                          
+                 WEL =       2.0702E+15                   WEL =     2746090.7050     SSM_WELL_EXTRACT                 
+                 RIV =       9.0159E+14                   RIV =     1190317.3871     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       6.1065E+14                   CHD =      806259.7954     SSM_CHD                          
+                 CHD =       7.7764E+14                   CHD =     1026740.2503     SSM_CHD                          
 
-           TOTAL OUT =       4.8981E+15             TOTAL OUT =     5792670.9635
+           TOTAL OUT =       4.8362E+15             TOTAL OUT =     5710872.9940
 
-            IN - OUT =         -20.0000              IN - OUT =       2.9802E-08
+            IN - OUT =          36.0000              IN - OUT =      -1.5926E-07
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =           0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -6449,29 +6449,29 @@ start timestep kper="50" kstp="14" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       1.0364E+15       STORAGE-CELLBLK =      579565.4116     EST                              
+     STORAGE-CELLBLK =       1.0439E+15       STORAGE-CELLBLK =      589681.5526     EST                              
                  WEL =       2.1963E+15                   WEL =     3511200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       4.4651E+14                   RIV =      575568.7924     SSM_RIV                          
+                 RIV =       6.5914E+14                   RIV =      849720.5774     SSM_RIV                          
                 RCHA =       2.0529E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       1.1389E+15                   CHD =     1467994.2820     SSM_CHD                          
+                 CHD =       8.5532E+14                   CHD =     1102542.1434     SSM_CHD                          
 
-            TOTAL IN =       5.0234E+15              TOTAL IN =     6398942.4940
+            TOTAL IN =       4.9599E+15              TOTAL IN =     6317758.2815
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       1.1090E+15       STORAGE-CELLBLK =     1343515.2136     EST                              
+     STORAGE-CELLBLK =       1.1192E+15       STORAGE-CELLBLK =     1357853.9446     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       2.1237E+15                   WEL =     2747210.2883     SSM_WELL_EXTRACT                 
-                 RIV =       1.1652E+15                   RIV =     1501957.2256     SSM_RIV                          
+                 WEL =       2.1207E+15                   WEL =     2742849.5397     SSM_WELL_EXTRACT                 
+                 RIV =       9.2350E+14                   RIV =     1190314.8885     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       6.2549E+14                   CHD =      806259.7665     SSM_CHD                          
+                 CHD =       7.9654E+14                   CHD =     1026739.9087     SSM_CHD                          
 
-           TOTAL OUT =       5.0234E+15             TOTAL OUT =     6398942.4940
+           TOTAL OUT =       4.9599E+15             TOTAL OUT =     6317758.2815
 
-            IN - OUT =         -21.0000              IN - OUT =      -1.2694E-06
+            IN - OUT =          36.0000              IN - OUT =      -7.4506E-08
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -6563,29 +6563,29 @@ start timestep kper="51" kstp="10" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       1.0613E+15       STORAGE-CELLBLK =     1645294.8348     EST                              
+     STORAGE-CELLBLK =       1.0689E+15       STORAGE-CELLBLK =     1654789.7316     EST                              
                  WEL =       2.2205E+15                   WEL =     1839200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       4.5408E+14                   RIV =      575569.0201     SSM_RIV                          
+                 RIV =       6.7031E+14                   RIV =      849722.3351     SSM_RIV                          
                 RCHA =       2.0876E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       1.1582E+15                   CHD =     1467994.3700     SSM_CHD                          
+                 CHD =       8.6982E+14                   CHD =     1102542.6290     SSM_CHD                          
 
-            TOTAL IN =       5.1028E+15              TOTAL IN =     5792672.2329
+            TOTAL IN =       5.0383E+15              TOTAL IN =     5710868.7038
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       1.1219E+15       STORAGE-CELLBLK =      732062.3341     EST                              
+     STORAGE-CELLBLK =       1.1323E+15       STORAGE-CELLBLK =      747600.7367     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       2.1598E+15                   WEL =     2752393.6650     SSM_WELL_EXTRACT                 
-                 RIV =       1.1850E+15                   RIV =     1501956.4873     SSM_RIV                          
+                 WEL =       2.1568E+15                   WEL =     2746215.1504     SSM_WELL_EXTRACT                 
+                 RIV =       9.3915E+14                   RIV =     1190313.1459     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       6.3609E+14                   CHD =      806259.7465     SSM_CHD                          
+                 CHD =       8.1005E+14                   CHD =     1026739.6707     SSM_CHD                          
 
-           TOTAL OUT =       5.1028E+15             TOTAL OUT =     5792672.2329
+           TOTAL OUT =       5.0383E+15             TOTAL OUT =     5710868.7038
 
-            IN - OUT =         -21.0000              IN - OUT =      -9.3132E-09
+            IN - OUT =          39.0000              IN - OUT =      -1.8068E-07
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -6701,29 +6701,29 @@ start timestep kper="52" kstp="14" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       1.0795E+15       STORAGE-CELLBLK =      579565.9575     EST                              
+     STORAGE-CELLBLK =       1.0872E+15       STORAGE-CELLBLK =      589673.1341     EST                              
                  WEL =       2.2851E+15                   WEL =     3511200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       4.6468E+14                   RIV =      575569.3311     SSM_RIV                          
+                 RIV =       6.8596E+14                   RIV =      849724.7312     SSM_RIV                          
                 RCHA =       2.1364E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       1.1852E+15                   CHD =     1467994.4893     SSM_CHD                          
+                 CHD =       8.9012E+14                   CHD =     1102543.2920     SSM_CHD                          
 
-            TOTAL IN =       5.2281E+15              TOTAL IN =     6398943.7859
+            TOTAL IN =       5.1621E+15              TOTAL IN =     6317755.1653
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       1.1541E+15       STORAGE-CELLBLK =     1343344.0410     EST                              
+     STORAGE-CELLBLK =       1.1648E+15       STORAGE-CELLBLK =     1357738.2259     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       2.2105E+15                   WEL =     2747384.5410     SSM_WELL_EXTRACT                 
-                 RIV =       1.2126E+15                   RIV =     1501955.4845     SSM_RIV                          
+                 WEL =       2.2073E+15                   WEL =     2742966.8198     SSM_WELL_EXTRACT                 
+                 RIV =       9.6106E+14                   RIV =     1190310.7737     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       6.5093E+14                   CHD =      806259.7195     SSM_CHD                          
+                 CHD =       8.2895E+14                   CHD =     1026739.3459     SSM_CHD                          
 
-           TOTAL OUT =       5.2281E+15             TOTAL OUT =     6398943.7859
+           TOTAL OUT =       5.1621E+15             TOTAL OUT =     6317755.1653
 
-            IN - OUT =         -23.0000              IN - OUT =      -1.2396E-06
+            IN - OUT =          39.0000              IN - OUT =       1.3039E-08
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =           0.00
 
 
 
@@ -6815,29 +6815,29 @@ start timestep kper="53" kstp="10" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       1.1044E+15       STORAGE-CELLBLK =     1645295.4596     EST                              
+     STORAGE-CELLBLK =       1.1123E+15       STORAGE-CELLBLK =     1654781.3317     EST                              
                  WEL =       2.3093E+15                   WEL =     1839200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       4.7224E+14                   RIV =      575569.5452     SSM_RIV                          
+                 RIV =       6.9713E+14                   RIV =      849726.4010     SSM_RIV                          
                 RCHA =       2.1712E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       1.2045E+15                   CHD =     1467994.5718     SSM_CHD                          
+                 CHD =       9.0461E+14                   CHD =     1102543.7537     SSM_CHD                          
 
-            TOTAL IN =       5.3075E+15              TOTAL IN =     5792673.5847
+            TOTAL IN =       5.2405E+15              TOTAL IN =     5710865.4945
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       1.1670E+15       STORAGE-CELLBLK =      731897.9379     EST                              
+     STORAGE-CELLBLK =       1.1779E+15       STORAGE-CELLBLK =      747489.6927     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       2.2466E+15                   WEL =     2752561.1564     SSM_WELL_EXTRACT                 
-                 RIV =       1.2324E+15                   RIV =     1501954.7897     SSM_RIV                          
+                 WEL =       2.2434E+15                   WEL =     2746327.5597     SSM_WELL_EXTRACT                 
+                 RIV =       9.7672E+14                   RIV =     1190309.1224     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       6.6154E+14                   CHD =      806259.7008     SSM_CHD                          
+                 CHD =       8.4245E+14                   CHD =     1026739.1196     SSM_CHD                          
 
-           TOTAL OUT =       5.3075E+15             TOTAL OUT =     5792673.5847
+           TOTAL OUT =       5.2405E+15             TOTAL OUT =     5710865.4945
 
-            IN - OUT =         -23.0000              IN - OUT =       6.8918E-08
+            IN - OUT =          42.0000              IN - OUT =      -1.3225E-07
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =           0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -6953,29 +6953,29 @@ start timestep kper="54" kstp="14" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       1.1225E+15       STORAGE-CELLBLK =      579566.4440     EST                              
+     STORAGE-CELLBLK =       1.1306E+15       STORAGE-CELLBLK =      589665.3658     EST                              
                  WEL =       2.3740E+15                   WEL =     3511200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       4.8284E+14                   RIV =      575569.8332     SSM_RIV                          
+                 RIV =       7.1277E+14                   RIV =      849728.6781     SSM_RIV                          
                 RCHA =       2.2199E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       1.2315E+15                   CHD =     1467994.6836     SSM_CHD                          
+                 CHD =       9.2491E+14                   CHD =     1102544.3839     SSM_CHD                          
 
-            TOTAL IN =       5.4328E+15              TOTAL IN =     6398944.9689
+            TOTAL IN =       5.3642E+15              TOTAL IN =     6317752.4359
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       1.1992E+15       STORAGE-CELLBLK =     1343188.2525     EST                              
+     STORAGE-CELLBLK =       1.2104E+15       STORAGE-CELLBLK =     1357634.0021     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       2.2972E+15                   WEL =     2747543.1854     SSM_WELL_EXTRACT                 
-                 RIV =       1.2600E+15                   RIV =     1501953.8556     SSM_RIV                          
+                 WEL =       2.2939E+15                   WEL =     2743072.7548     SSM_WELL_EXTRACT                 
+                 RIV =       9.9863E+14                   RIV =     1190306.8682     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       6.7638E+14                   CHD =      806259.6754     SSM_CHD                          
+                 CHD =       8.6135E+14                   CHD =     1026738.8107     SSM_CHD                          
 
-           TOTAL OUT =       5.4328E+15             TOTAL OUT =     6398944.9689
+           TOTAL OUT =       5.3642E+15             TOTAL OUT =     6317752.4359
 
-            IN - OUT =         -23.0000              IN - OUT =      -1.1865E-06
+            IN - OUT =          40.0000              IN - OUT =      -1.3784E-07
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -7067,29 +7067,29 @@ start timestep kper="55" kstp="10" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       1.1474E+15       STORAGE-CELLBLK =     1645296.0252     EST                              
+     STORAGE-CELLBLK =       1.1556E+15       STORAGE-CELLBLK =     1654774.7646     EST                              
                  WEL =       2.3981E+15                   WEL =     1839200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       4.9041E+14                   RIV =      575570.0328     SSM_RIV                          
+                 RIV =       7.2394E+14                   RIV =      849730.2667     SSM_RIV                          
                 RCHA =       2.2547E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       1.2508E+15                   CHD =     1467994.7609     SSM_CHD                          
+                 CHD =       9.3941E+14                   CHD =     1102544.8229     SSM_CHD                          
 
-            TOTAL IN =       5.5123E+15              TOTAL IN =     5792674.8270
+            TOTAL IN =       5.4426E+15              TOTAL IN =     5710863.8622
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       1.2121E+15       STORAGE-CELLBLK =      731748.1258     EST                              
+     STORAGE-CELLBLK =       1.2235E+15       STORAGE-CELLBLK =      747390.7884     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       2.3334E+15                   WEL =     2752713.8371     SSM_WELL_EXTRACT                 
-                 RIV =       1.2798E+15                   RIV =     1501953.2062     SSM_RIV                          
+                 WEL =       2.3300E+15                   WEL =     2746429.1811     SSM_WELL_EXTRACT                 
+                 RIV =       1.0143E+15                   RIV =     1190305.2972     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       6.8698E+14                   CHD =      806259.6579     SSM_CHD                          
+                 CHD =       8.7485E+14                   CHD =     1026738.5955     SSM_CHD                          
 
-           TOTAL OUT =       5.5123E+15             TOTAL OUT =     5792674.8270
+           TOTAL OUT =       5.4426E+15             TOTAL OUT =     5710863.8622
 
-            IN - OUT =         -21.0000              IN - OUT =       7.5437E-08
+            IN - OUT =          43.0000              IN - OUT =      -2.1886E-07
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =           0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -7205,29 +7205,29 @@ start timestep kper="56" kstp="14" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       1.1656E+15       STORAGE-CELLBLK =      579566.8676     EST                              
+     STORAGE-CELLBLK =       1.1739E+15       STORAGE-CELLBLK =      589661.4115     EST                              
                  WEL =       2.4628E+15                   WEL =     3511200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       5.0100E+14                   RIV =      575570.3040     SSM_RIV                          
+                 RIV =       7.3959E+14                   RIV =      849732.4321     SSM_RIV                          
                 RCHA =       2.3034E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       1.2778E+15                   CHD =     1467994.8657     SSM_CHD                          
+                 CHD =       9.5970E+14                   CHD =     1102545.4220     SSM_CHD                          
 
-            TOTAL IN =       5.6375E+15              TOTAL IN =     6398946.0454
+            TOTAL IN =       5.5663E+15              TOTAL IN =     6317753.2736
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       1.2442E+15       STORAGE-CELLBLK =     1343046.0300     EST                              
+     STORAGE-CELLBLK =       1.2560E+15       STORAGE-CELLBLK =     1357543.1125     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       2.3840E+15                   WEL =     2747688.0528     SSM_WELL_EXTRACT                 
-                 RIV =       1.3074E+15                   RIV =     1501952.3284     SSM_RIV                          
+                 WEL =       2.3804E+15                   WEL =     2743168.6959     SSM_WELL_EXTRACT                 
+                 RIV =       1.0362E+15                   RIV =     1190303.1634     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       7.0182E+14                   CHD =      806259.6342     SSM_CHD                          
+                 CHD =       8.9375E+14                   CHD =     1026738.3018     SSM_CHD                          
 
-           TOTAL OUT =       5.6375E+15             TOTAL OUT =     6398946.0454
+           TOTAL OUT =       5.5663E+15             TOTAL OUT =     6317753.2736
 
-            IN - OUT =         -23.0000              IN - OUT =      -1.2582E-06
+            IN - OUT =          42.0000              IN - OUT =      -1.1828E-07
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -7319,29 +7319,29 @@ start timestep kper="57" kstp="10" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       1.1905E+15       STORAGE-CELLBLK =     1645296.5494     EST                              
+     STORAGE-CELLBLK =       1.1990E+15       STORAGE-CELLBLK =     1654771.5717     EST                              
                  WEL =       2.4870E+15                   WEL =     1839200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       5.0857E+14                   RIV =      575570.4921     SSM_RIV                          
+                 RIV =       7.5076E+14                   RIV =      849733.9413     SSM_RIV                          
                 RCHA =       2.3382E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       1.2971E+15                   CHD =     1467994.9382     SSM_CHD                          
+                 CHD =       9.7420E+14                   CHD =     1102545.8392     SSM_CHD                          
 
-            TOTAL IN =       5.7170E+15              TOTAL IN =     5792675.9878
+            TOTAL IN =       5.6447E+15              TOTAL IN =     5710865.3604
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       1.2572E+15       STORAGE-CELLBLK =      731611.2272     EST                              
+     STORAGE-CELLBLK =       1.2691E+15       STORAGE-CELLBLK =      747304.2260     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       2.4202E+15                   WEL =     2752853.4232     SSM_WELL_EXTRACT                 
-                 RIV =       1.3272E+15                   RIV =     1501951.7196     SSM_RIV                          
+                 WEL =       2.4166E+15                   WEL =     2746521.3612     SSM_WELL_EXTRACT                 
+                 RIV =       1.0518E+15                   RIV =     1190301.6760     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       7.1242E+14                   CHD =      806259.6178     SSM_CHD                          
+                 CHD =       9.0725E+14                   CHD =     1026738.0971     SSM_CHD                          
 
-           TOTAL OUT =       5.7170E+15             TOTAL OUT =     5792675.9878
+           TOTAL OUT =       5.6447E+15             TOTAL OUT =     5710865.3604
 
-            IN - OUT =         -23.0000              IN - OUT =       8.3819E-09
+            IN - OUT =          43.0000              IN - OUT =      -1.3225E-07
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =           0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -7457,29 +7457,29 @@ start timestep kper="58" kstp="14" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       1.2086E+15       STORAGE-CELLBLK =      579567.2395     EST                              
+     STORAGE-CELLBLK =       1.2173E+15       STORAGE-CELLBLK =      589659.3136     EST                              
                  WEL =       2.5516E+15                   WEL =     3511200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       5.1917E+14                   RIV =      575570.7461     SSM_RIV                          
+                 RIV =       7.6640E+14                   RIV =      849735.9973     SSM_RIV                          
                 RCHA =       2.3869E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       1.3242E+15                   CHD =     1467995.0364     SSM_CHD                          
+                 CHD =       9.9450E+14                   CHD =     1102546.4087     SSM_CHD                          
 
-            TOTAL IN =       5.8422E+15              TOTAL IN =     6398947.0301
+            TOTAL IN =       5.7685E+15              TOTAL IN =     6317755.7277
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       1.2893E+15       STORAGE-CELLBLK =     1342915.8326     EST                              
+     STORAGE-CELLBLK =       1.3016E+15       STORAGE-CELLBLK =     1357462.3483     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       2.4708E+15                   WEL =     2747820.7063     SSM_WELL_EXTRACT                 
-                 RIV =       1.3548E+15                   RIV =     1501950.8955     SSM_RIV                          
+                 WEL =       2.4670E+15                   WEL =     2743255.9071     SSM_WELL_EXTRACT                 
+                 RIV =       1.0738E+15                   RIV =     1190299.6546     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       7.2726E+14                   CHD =      806259.5956     SSM_CHD                          
+                 CHD =       9.2615E+14                   CHD =     1026737.8177     SSM_CHD                          
 
-           TOTAL OUT =       5.8422E+15             TOTAL OUT =     6398947.0301
+           TOTAL OUT =       5.7685E+15             TOTAL OUT =     6317755.7277
 
-            IN - OUT =         -25.0000              IN - OUT =      -1.2154E-06
+            IN - OUT =          44.0000              IN - OUT =      -6.1467E-08
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -7571,29 +7571,29 @@ start timestep kper="59" kstp="10" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       1.2336E+15       STORAGE-CELLBLK =     1645297.0202     EST                              
+     STORAGE-CELLBLK =       1.2424E+15       STORAGE-CELLBLK =     1654769.5760     EST                              
                  WEL =       2.5758E+15                   WEL =     1839200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       5.2674E+14                   RIV =      575570.9228     SSM_RIV                          
+                 RIV =       7.7757E+14                   RIV =      849737.4343     SSM_RIV                          
                 RCHA =       2.4217E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       1.3435E+15                   CHD =     1467995.1042     SSM_CHD                          
+                 CHD =       1.0090E+15                   CHD =     1102546.8053     SSM_CHD                          
 
-            TOTAL IN =       5.9217E+15              TOTAL IN =     5792677.0553
+            TOTAL IN =       5.8469E+15              TOTAL IN =     5710867.8236
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       1.3022E+15       STORAGE-CELLBLK =      731485.7628     EST                              
+     STORAGE-CELLBLK =       1.3147E+15       STORAGE-CELLBLK =      747226.6872     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       2.5070E+15                   WEL =     2752981.3845     SSM_WELL_EXTRACT                 
-                 RIV =       1.3746E+15                   RIV =     1501950.3278     SSM_RIV                          
+                 WEL =       2.5031E+15                   WEL =     2746605.2612     SSM_WELL_EXTRACT                 
+                 RIV =       1.0894E+15                   RIV =     1190298.2521     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       7.3787E+14                   CHD =      806259.5802     SSM_CHD                          
+                 CHD =       9.3965E+14                   CHD =     1026737.6231     SSM_CHD                          
 
-           TOTAL OUT =       5.9217E+15             TOTAL OUT =     5792677.0553
+           TOTAL OUT =       5.8469E+15             TOTAL OUT =     5710867.8236
 
-            IN - OUT =         -23.0000              IN - OUT =       1.9558E-08
+            IN - OUT =          45.0000              IN - OUT =      -1.4808E-07
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =           0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -7709,29 +7709,29 @@ start timestep kper="60" kstp="14" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       1.2517E+15       STORAGE-CELLBLK =      579567.5721     EST                              
+     STORAGE-CELLBLK =       1.2607E+15       STORAGE-CELLBLK =      589657.9783     EST                              
                  WEL =       2.6404E+15                   WEL =     3511200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       5.3733E+14                   RIV =      575571.1595     SSM_RIV                          
+                 RIV =       7.9322E+14                   RIV =      849739.3888     SSM_RIV                          
                 RCHA =       2.4704E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       1.3705E+15                   CHD =     1467995.1962     SSM_CHD                          
+                 CHD =       1.0293E+15                   CHD =     1102547.3466     SSM_CHD                          
 
-            TOTAL IN =       6.0470E+15              TOTAL IN =     6398947.9359
+            TOTAL IN =       5.9706E+15              TOTAL IN =     6317758.7218
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       1.3344E+15       STORAGE-CELLBLK =     1342796.3125     EST                              
+     STORAGE-CELLBLK =       1.3471E+15       STORAGE-CELLBLK =     1357389.6151     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       2.5577E+15                   WEL =     2747942.5076     SSM_WELL_EXTRACT                 
-                 RIV =       1.4022E+15                   RIV =     1501949.5563     SSM_RIV                          
+                 WEL =       2.5536E+15                   WEL =     2743335.4058     SSM_WELL_EXTRACT                 
+                 RIV =       1.1113E+15                   RIV =     1190296.3434     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       7.5271E+14                   CHD =      806259.5594     SSM_CHD                          
+                 CHD =       9.5855E+14                   CHD =     1026737.3574     SSM_CHD                          
 
-           TOTAL OUT =       6.0470E+15             TOTAL OUT =     6398947.9359
+           TOTAL OUT =       5.9706E+15             TOTAL OUT =     6317758.7218
 
-            IN - OUT =         -25.0000              IN - OUT =      -1.2554E-06
+            IN - OUT =          44.0000              IN - OUT =      -4.3772E-08
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =          -0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
@@ -7823,29 +7823,29 @@ start timestep kper="61" kstp="10" mode="normal"
 
            IN:                                      IN:
            ---                                      ---
-     STORAGE-CELLBLK =       1.2766E+15       STORAGE-CELLBLK =     1645297.4531     EST                              
+     STORAGE-CELLBLK =       1.2857E+15       STORAGE-CELLBLK =     1654768.6353     EST                              
                  WEL =       2.6646E+15                   WEL =     1839200.0000     SSM_WELL_INJECT                  
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_EXTRACT                 
-                 RIV =       5.4490E+14                   RIV =      575571.3252     SSM_RIV                          
+                 RIV =       8.0439E+14                   RIV =      849740.7520     SSM_RIV                          
                 RCHA =       2.5052E+14                  RCHA =      264614.0081     SSM_RCH                          
-                 CHD =       1.3898E+15                   CHD =     1467995.2598     SSM_CHD                          
+                 CHD =       1.0438E+15                   CHD =     1102547.7235     SSM_CHD                          
 
-            TOTAL IN =       6.1264E+15              TOTAL IN =     5792678.0463
+            TOTAL IN =       6.0490E+15              TOTAL IN =     5710871.1189
 
           OUT:                                     OUT:
           ----                                     ----
-     STORAGE-CELLBLK =       1.3473E+15       STORAGE-CELLBLK =      731370.4760     EST                              
+     STORAGE-CELLBLK =       1.3603E+15       STORAGE-CELLBLK =      747157.1144     EST                              
                  WEL =           0.0000                   WEL =           0.0000     SSM_WELL_INJECT                  
-                 WEL =       2.5938E+15                   WEL =     2753099.0030     SSM_WELL_EXTRACT                 
-                 RIV =       1.4220E+15                   RIV =     1501949.0222     SSM_RIV                          
+                 WEL =       2.5897E+15                   WEL =     2746681.8083     SSM_WELL_EXTRACT                 
+                 RIV =       1.1270E+15                   RIV =     1190295.0239     SSM_RIV                          
                 RCHA =           0.0000                  RCHA =           0.0000     SSM_RCH                          
-                 CHD =       7.6331E+14                   CHD =      806259.5451     SSM_CHD                          
+                 CHD =       9.7205E+14                   CHD =     1026737.1724     SSM_CHD                          
 
-           TOTAL OUT =       6.1264E+15             TOTAL OUT =     5792678.0463
+           TOTAL OUT =       6.0490E+15             TOTAL OUT =     5710871.1189
 
-            IN - OUT =         -25.0000              IN - OUT =       8.1025E-08
+            IN - OUT =          49.0000              IN - OUT =      -9.1270E-08
 
- PERCENT DISCREPANCY =          -0.00     PERCENT DISCREPANCY =           0.00
+ PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
 
 
