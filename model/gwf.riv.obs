@@ -1,0 +1,7 @@
+BEGIN OPTIONS
+END OPTIONS
+
+BEGIN CONTINUOUS FILEOUT rivobs.csv
+# obsname   type ID
+  riverloss RIV  gauged
+END CONTINUOUS
